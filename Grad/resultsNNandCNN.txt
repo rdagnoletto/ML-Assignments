@@ -1,0 +1,1620 @@
+Results
+
+conv1 40 epochs slow (learning_rate = 0.000001, epsilon = 1e-04)
+***** 1conv 40 32
+
+Run Time: 16586.78 seconds
+Final Training Error: 15.05961:
+Final Validation Error: 15.20264:
+Final Testing Error: 15.20106:
+Final Training Accuracy: 0.87335:
+Final Validation Accuracy: 0.81850:
+Final Testing Accuracy: 0.82125:
+
+
+Epoch: 0, 381.21 sec, Loss: 86.163, Acc: 0.30823
+Epoch: 1, 811.08 sec, Loss: 78.232, Acc: 0.42837
+Epoch: 2, 1250.86 sec, Loss: 71.159, Acc: 0.50878
+Epoch: 3, 1683.07 sec, Loss: 64.895, Acc: 0.56413
+Epoch: 4, 2104.42 sec, Loss: 59.394, Acc: 0.60772
+Epoch: 5, 2518.04 sec, Loss: 54.605, Acc: 0.64032
+Epoch: 6, 2926.85 sec, Loss: 50.464, Acc: 0.66587
+Epoch: 7, 3338.99 sec, Loss: 46.899, Acc: 0.68792
+Epoch: 8, 3747.88 sec, Loss: 43.843, Acc: 0.70650
+Epoch: 9, 4165.80 sec, Loss: 41.226, Acc: 0.72103
+Epoch: 10, 4592.01 sec, Loss: 38.982, Acc: 0.73490
+Epoch: 11, 4997.80 sec, Loss: 37.049, Acc: 0.74728
+Epoch: 12, 5394.76 sec, Loss: 35.368, Acc: 0.75788
+Epoch: 13, 5783.59 sec, Loss: 33.887, Acc: 0.76780
+Epoch: 14, 6185.29 sec, Loss: 32.560, Acc: 0.77570
+Epoch: 15, 6572.45 sec, Loss: 31.349, Acc: 0.78398
+Epoch: 16, 6977.36 sec, Loss: 30.226, Acc: 0.79150
+Epoch: 17, 7380.32 sec, Loss: 29.173, Acc: 0.79872
+Epoch: 18, 7801.53 sec, Loss: 28.179, Acc: 0.80460
+Epoch: 19, 8214.24 sec, Loss: 27.237, Acc: 0.80968
+Epoch: 20, 8648.70 sec, Loss: 26.345, Acc: 0.81537
+Epoch: 21, 9073.42 sec, Loss: 25.495, Acc: 0.81935
+Epoch: 22, 9492.41 sec, Loss: 24.685, Acc: 0.82327
+Epoch: 23, 9930.71 sec, Loss: 23.913, Acc: 0.82803
+Epoch: 24, 10320.59 sec, Loss: 23.174, Acc: 0.83177
+Epoch: 25, 10708.93 sec, Loss: 22.468, Acc: 0.83550
+Epoch: 26, 11099.57 sec, Loss: 21.791, Acc: 0.83950
+Epoch: 27, 11511.55 sec, Loss: 21.142, Acc: 0.84290
+Epoch: 28, 11915.46 sec, Loss: 20.520, Acc: 0.84623
+Epoch: 29, 12354.25 sec, Loss: 19.922, Acc: 0.84885
+Epoch: 30, 12781.02 sec, Loss: 19.349, Acc: 0.85180
+Epoch: 31, 13196.08 sec, Loss: 18.797, Acc: 0.85458
+Epoch: 32, 13623.83 sec, Loss: 18.266, Acc: 0.85753
+Epoch: 33, 14065.29 sec, Loss: 17.755, Acc: 0.86003
+Epoch: 34, 14504.93 sec, Loss: 17.264, Acc: 0.86215
+Epoch: 35, 14926.42 sec, Loss: 16.790, Acc: 0.86468
+Epoch: 36, 15338.20 sec, Loss: 16.334, Acc: 0.86720
+Epoch: 37, 15751.87 sec, Loss: 15.894, Acc: 0.86940
+Epoch: 38, 16167.97 sec, Loss: 15.469, Acc: 0.87138
+Epoch: 39, 16586.76 sec, Loss: 15.060, Acc: 0.87335
+
+
+conv2 40 epochs slow (learning_rate = 0.000001, epsilon = 1e-04)
+***** 2conv 40 32
+
+Run Time: 15333.51 seconds
+Final Training Error: 13.86383:
+Final Validation Error: 14.01777:
+Final Testing Error: 14.01291:
+Final Training Accuracy: 0.90368:
+Final Validation Accuracy: 0.84600:
+Final Testing Accuracy: 0.84966:
+
+Epoch: 0, 348.09 sec, Loss: 83.586, Acc: 0.25540
+Epoch: 1, 713.11 sec, Loss: 79.357, Acc: 0.37977
+Epoch: 2, 1108.43 sec, Loss: 75.289, Acc: 0.46792
+Epoch: 3, 1483.91 sec, Loss: 71.386, Acc: 0.53545
+Epoch: 4, 1871.51 sec, Loss: 67.660, Acc: 0.58560
+Epoch: 5, 2245.67 sec, Loss: 64.123, Acc: 0.62602
+Epoch: 6, 2623.82 sec, Loss: 60.777, Acc: 0.65960
+Epoch: 7, 3002.12 sec, Loss: 57.619, Acc: 0.68613
+Epoch: 8, 3407.89 sec, Loss: 54.643, Acc: 0.70902
+Epoch: 9, 3791.74 sec, Loss: 51.843, Acc: 0.72843
+Epoch: 10, 4161.26 sec, Loss: 49.210, Acc: 0.74705
+Epoch: 11, 4530.12 sec, Loss: 46.736, Acc: 0.76170
+Epoch: 12, 4916.56 sec, Loss: 44.411, Acc: 0.77422
+Epoch: 13, 5293.98 sec, Loss: 42.226, Acc: 0.78565
+Epoch: 14, 5676.00 sec, Loss: 40.173, Acc: 0.79532
+Epoch: 15, 6061.58 sec, Loss: 38.242, Acc: 0.80452
+Epoch: 16, 6435.61 sec, Loss: 36.425, Acc: 0.81283
+Epoch: 17, 6823.43 sec, Loss: 34.716, Acc: 0.82002
+Epoch: 18, 7205.60 sec, Loss: 33.107, Acc: 0.82673
+Epoch: 19, 7598.07 sec, Loss: 31.590, Acc: 0.83260
+Epoch: 20, 7988.60 sec, Loss: 30.161, Acc: 0.83825
+Epoch: 21, 8358.95 sec, Loss: 28.813, Acc: 0.84342
+Epoch: 22, 8751.03 sec, Loss: 27.542, Acc: 0.84883
+Epoch: 23, 9135.63 sec, Loss: 26.341, Acc: 0.85353
+Epoch: 24, 9535.54 sec, Loss: 25.208, Acc: 0.85778
+Epoch: 25, 9925.67 sec, Loss: 24.137, Acc: 0.86173
+Epoch: 26, 10325.15 sec, Loss: 23.124, Acc: 0.86585
+Epoch: 27, 10708.69 sec, Loss: 22.166, Acc: 0.87022
+Epoch: 28, 11094.78 sec, Loss: 21.258, Acc: 0.87372
+Epoch: 29, 11469.80 sec, Loss: 20.399, Acc: 0.87668
+Epoch: 30, 11852.40 sec, Loss: 19.585, Acc: 0.88003
+Epoch: 31, 12237.93 sec, Loss: 18.812, Acc: 0.88290
+Epoch: 32, 12630.25 sec, Loss: 18.079, Acc: 0.88563
+Epoch: 33, 13007.31 sec, Loss: 17.383, Acc: 0.88847
+Epoch: 34, 13399.44 sec, Loss: 16.721, Acc: 0.89100
+Epoch: 35, 13785.62 sec, Loss: 16.092, Acc: 0.89373
+Epoch: 36, 14165.81 sec, Loss: 15.493, Acc: 0.89672
+Epoch: 37, 14565.86 sec, Loss: 14.924, Acc: 0.89945
+Epoch: 38, 14953.72 sec, Loss: 14.381, Acc: 0.90168
+Epoch: 39, 15333.51 sec, Loss: 13.864, Acc: 0.90368
+
+
+
+1full 40 epochs slow (learning_rate = 0.000001, epsilon = 1e-04)
+***** 1full 50 32
+
+Run Time: 5067.36 seconds
+Final Training Error: 12.85950:
+Final Validation Error: 12.90433:
+Final Testing Error: 12.90471:
+Final Training Accuracy: 0.76202:
+Final Validation Accuracy: 0.74325:
+Final Testing Accuracy: 0.74229:
+
+
+Epoch: 0, 130.53 sec, Loss: 75.788, Acc: 0.20998
+Epoch: 1, 232.63 sec, Loss: 71.412, Acc: 0.29180
+Epoch: 2, 334.18 sec, Loss: 67.210, Acc: 0.35078
+Epoch: 3, 435.12 sec, Loss: 63.212, Acc: 0.39542
+Epoch: 4, 535.76 sec, Loss: 59.460, Acc: 0.43047
+Epoch: 5, 636.43 sec, Loss: 55.963, Acc: 0.45945
+Epoch: 6, 737.17 sec, Loss: 52.723, Acc: 0.48313
+Epoch: 7, 837.79 sec, Loss: 49.735, Acc: 0.50632
+Epoch: 8, 938.60 sec, Loss: 46.986, Acc: 0.52628
+Epoch: 9, 1039.17 sec, Loss: 44.473, Acc: 0.54380
+Epoch: 10, 1139.76 sec, Loss: 42.170, Acc: 0.55940
+Epoch: 11, 1240.57 sec, Loss: 40.062, Acc: 0.57413
+Epoch: 12, 1340.79 sec, Loss: 38.141, Acc: 0.58812
+Epoch: 13, 1441.68 sec, Loss: 36.388, Acc: 0.60027
+Epoch: 14, 1541.86 sec, Loss: 34.792, Acc: 0.61228
+Epoch: 15, 1642.05 sec, Loss: 33.334, Acc: 0.62312
+Epoch: 16, 1742.31 sec, Loss: 32.002, Acc: 0.63220
+Epoch: 17, 1842.77 sec, Loss: 30.779, Acc: 0.64160
+Epoch: 18, 1943.08 sec, Loss: 29.652, Acc: 0.65003
+Epoch: 19, 2043.59 sec, Loss: 28.610, Acc: 0.65792
+Epoch: 20, 2144.09 sec, Loss: 27.644, Acc: 0.66465
+Epoch: 21, 2244.59 sec, Loss: 26.741, Acc: 0.67165
+Epoch: 22, 2344.80 sec, Loss: 25.893, Acc: 0.67770
+Epoch: 23, 2445.40 sec, Loss: 25.095, Acc: 0.68377
+Epoch: 24, 2545.83 sec, Loss: 24.340, Acc: 0.68883
+Epoch: 25, 2646.17 sec, Loss: 23.623, Acc: 0.69335
+Epoch: 26, 2746.92 sec, Loss: 22.941, Acc: 0.69828
+Epoch: 27, 2847.43 sec, Loss: 22.290, Acc: 0.70217
+Epoch: 28, 2947.83 sec, Loss: 21.669, Acc: 0.70627
+Epoch: 29, 3048.45 sec, Loss: 21.075, Acc: 0.70985
+Epoch: 30, 3149.01 sec, Loss: 20.507, Acc: 0.71328
+Epoch: 31, 3249.56 sec, Loss: 19.961, Acc: 0.71757
+Epoch: 32, 3350.23 sec, Loss: 19.437, Acc: 0.72137
+Epoch: 33, 3450.85 sec, Loss: 18.933, Acc: 0.72470
+Epoch: 34, 3551.40 sec, Loss: 18.448, Acc: 0.72768
+Epoch: 35, 3653.58 sec, Loss: 17.981, Acc: 0.73112
+Epoch: 36, 3754.33 sec, Loss: 17.531, Acc: 0.73382
+Epoch: 37, 3854.98 sec, Loss: 17.097, Acc: 0.73677
+Epoch: 38, 3956.26 sec, Loss: 16.677, Acc: 0.73988
+Epoch: 39, 4057.04 sec, Loss: 16.272, Acc: 0.74178
+Epoch: 40, 4158.38 sec, Loss: 15.880, Acc: 0.74417
+Epoch: 41, 4259.25 sec, Loss: 15.501, Acc: 0.74688
+Epoch: 42, 4360.17 sec, Loss: 15.134, Acc: 0.74917
+Epoch: 43, 4461.14 sec, Loss: 14.778, Acc: 0.75077
+Epoch: 44, 4561.99 sec, Loss: 14.434, Acc: 0.75307
+Epoch: 45, 4663.00 sec, Loss: 14.099, Acc: 0.75478
+Epoch: 46, 4764.28 sec, Loss: 13.775, Acc: 0.75708
+Epoch: 47, 4865.26 sec, Loss: 13.461, Acc: 0.75875
+Epoch: 48, 4966.29 sec, Loss: 13.156, Acc: 0.76028
+Epoch: 49, 5067.36 sec, Loss: 12.859, Acc: 0.76202
+
+
+same
+***** 2convfull 40 32
+Epoch: 0, 871.18 sec, Loss: 216.733, Acc: 0.43642
+Epoch: 1, 1766.70 sec, Loss: 199.079, Acc: 0.58313
+Epoch: 2, 2666.91 sec, Loss: 182.219, Acc: 0.66433
+Epoch: 3, 3545.41 sec, Loss: 166.380, Acc: 0.71492
+Epoch: 4, 4425.86 sec, Loss: 151.706, Acc: 0.75033
+Epoch: 5, 5318.92 sec, Loss: 138.251, Acc: 0.77533
+Epoch: 6, 6211.24 sec, Loss: 126.000, Acc: 0.79695
+Epoch: 7, 7103.66 sec, Loss: 114.897, Acc: 0.81418
+Epoch: 8, 7991.68 sec, Loss: 104.865, Acc: 0.82778
+
+
+FASTER
+
+1full 50 epochs fast learning_rate = 0.00001
+***** 1fullspeed 50 32
+
+Run Time: 5801.62 seconds
+Final Training Error: 1.12800:
+Final Validation Error: 1.16107:
+Final Testing Error: 1.16135:
+Final Training Accuracy: 0.80868:
+Final Validation Accuracy: 0.79330:
+Final Testing Accuracy: 0.79532:
+
+
+Epoch: 0, 122.20 sec, Loss: 44.736, Acc: 0.46007
+Epoch: 1, 234.15 sec, Loss: 26.298, Acc: 0.57615
+Epoch: 2, 344.74 sec, Loss: 16.954, Acc: 0.63533
+Epoch: 3, 455.15 sec, Loss: 11.927, Acc: 0.66833
+Epoch: 4, 567.79 sec, Loss: 8.963, Acc: 0.69332
+Epoch: 5, 678.80 sec, Loss: 7.077, Acc: 0.70562
+Epoch: 6, 790.12 sec, Loss: 5.792, Acc: 0.71567
+Epoch: 7, 907.36 sec, Loss: 4.871, Acc: 0.72172
+Epoch: 8, 1020.66 sec, Loss: 4.167, Acc: 0.73157
+Epoch: 9, 1144.67 sec, Loss: 3.627, Acc: 0.73527
+Epoch: 10, 1267.56 sec, Loss: 3.192, Acc: 0.74478
+Epoch: 11, 1383.27 sec, Loss: 2.846, Acc: 0.75065
+Epoch: 12, 1498.90 sec, Loss: 2.565, Acc: 0.75493
+Epoch: 13, 1617.02 sec, Loss: 2.334, Acc: 0.75682
+Epoch: 14, 1731.99 sec, Loss: 2.147, Acc: 0.75967
+Epoch: 15, 1851.00 sec, Loss: 1.994, Acc: 0.76292
+Epoch: 16, 1966.29 sec, Loss: 1.871, Acc: 0.76868
+Epoch: 17, 2081.43 sec, Loss: 1.762, Acc: 0.77217
+Epoch: 18, 2197.28 sec, Loss: 1.670, Acc: 0.77467
+Epoch: 19, 2312.02 sec, Loss: 1.594, Acc: 0.77632
+Epoch: 20, 2430.83 sec, Loss: 1.531, Acc: 0.78105
+Epoch: 21, 2546.82 sec, Loss: 1.475, Acc: 0.78242
+Epoch: 22, 2660.55 sec, Loss: 1.435, Acc: 0.78143
+Epoch: 23, 2776.55 sec, Loss: 1.395, Acc: 0.78635
+Epoch: 24, 2889.94 sec, Loss: 1.363, Acc: 0.78907
+Epoch: 25, 3005.87 sec, Loss: 1.335, Acc: 0.79063
+Epoch: 26, 3121.07 sec, Loss: 1.311, Acc: 0.79348
+Epoch: 27, 3236.94 sec, Loss: 1.287, Acc: 0.79413
+Epoch: 28, 3353.23 sec, Loss: 1.273, Acc: 0.79453
+Epoch: 29, 3470.19 sec, Loss: 1.253, Acc: 0.79563
+Epoch: 30, 3586.89 sec, Loss: 1.239, Acc: 0.79530
+Epoch: 31, 3705.85 sec, Loss: 1.230, Acc: 0.79855
+Epoch: 32, 3819.80 sec, Loss: 1.223, Acc: 0.79668
+Epoch: 33, 3939.05 sec, Loss: 1.209, Acc: 0.79453
+Epoch: 34, 4056.37 sec, Loss: 1.204, Acc: 0.79590
+Epoch: 35, 4172.64 sec, Loss: 1.187, Acc: 0.80070
+Epoch: 36, 4288.05 sec, Loss: 1.184, Acc: 0.80315
+Epoch: 37, 4408.00 sec, Loss: 1.179, Acc: 0.80068
+Epoch: 38, 4523.19 sec, Loss: 1.177, Acc: 0.79910
+Epoch: 39, 4634.94 sec, Loss: 1.166, Acc: 0.80212
+Epoch: 40, 4753.29 sec, Loss: 1.163, Acc: 0.80345
+Epoch: 41, 4868.42 sec, Loss: 1.158, Acc: 0.80385
+Epoch: 42, 4983.96 sec, Loss: 1.152, Acc: 0.80560
+Epoch: 43, 5103.83 sec, Loss: 1.148, Acc: 0.80588
+Epoch: 44, 5217.79 sec, Loss: 1.146, Acc: 0.80443
+Epoch: 45, 5333.50 sec, Loss: 1.138, Acc: 0.80508
+Epoch: 46, 5448.31 sec, Loss: 1.132, Acc: 0.80765
+Epoch: 47, 5560.83 sec, Loss: 1.137, Acc: 0.80553
+Epoch: 48, 5682.40 sec, Loss: 1.132, Acc: 0.80760
+Epoch: 49, 5801.62 sec, Loss: 1.128, Acc: 0.80868
+
+
+
+
+
+***conv1 slow 40 then 0.00001 till 52
+Final Training Error: 1.15086:
+Final Validation Error: 1.28784:
+Final Testing Error: 1.28585:
+Final Training Accuracy: 0.90067:
+Final Validation Accuracy: 0.84680:
+Final Testing Accuracy: 0.85017:
+
+
+PCA and then 1full with 0.00001 50 epochs
+n component = 50
+PCA Time:  66.73618006706238
+Run Time: 736.30 seconds
+Final Training Error: 0.89993:
+Final Validation Error: 0.94791:
+Final Testing Error: 0.94340:
+Final Training Accuracy: 0.83705:
+Final Validation Accuracy: 0.81870:
+Final Testing Accuracy: 0.82228:
+***** 1fullpca 50 32
+Epoch: 0, 15.64 sec, Loss: 6.799, ValAcc: 0.26470, TrainAcc: 0.26465
+Epoch: 1, 30.52 sec, Loss: 5.672, ValAcc: 0.38595, TrainAcc: 0.39062
+Epoch: 2, 44.97 sec, Loss: 4.839, ValAcc: 0.45075, TrainAcc: 0.45647
+Epoch: 3, 59.45 sec, Loss: 4.202, ValAcc: 0.49905, TrainAcc: 0.50613
+Epoch: 4, 74.17 sec, Loss: 3.707, ValAcc: 0.53605, TrainAcc: 0.54460
+Epoch: 5, 88.64 sec, Loss: 3.316, ValAcc: 0.56875, TrainAcc: 0.57645
+Epoch: 6, 103.17 sec, Loss: 3.003, ValAcc: 0.59565, TrainAcc: 0.60290
+Epoch: 7, 117.90 sec, Loss: 2.747, ValAcc: 0.61915, TrainAcc: 0.62603
+Epoch: 8, 132.39 sec, Loss: 2.534, ValAcc: 0.63690, TrainAcc: 0.64613
+Epoch: 9, 146.76 sec, Loss: 2.356, ValAcc: 0.65415, TrainAcc: 0.66305
+Epoch: 10, 161.19 sec, Loss: 2.205, ValAcc: 0.66865, TrainAcc: 0.67855
+Epoch: 11, 175.76 sec, Loss: 2.074, ValAcc: 0.68250, TrainAcc: 0.69198
+Epoch: 12, 190.66 sec, Loss: 1.960, ValAcc: 0.69400, TrainAcc: 0.70362
+Epoch: 13, 205.87 sec, Loss: 1.860, ValAcc: 0.70320, TrainAcc: 0.71270
+Epoch: 14, 220.70 sec, Loss: 1.772, ValAcc: 0.71225, TrainAcc: 0.72187
+Epoch: 15, 235.92 sec, Loss: 1.693, ValAcc: 0.72005, TrainAcc: 0.73020
+Epoch: 16, 250.87 sec, Loss: 1.621, ValAcc: 0.72645, TrainAcc: 0.73742
+Epoch: 17, 265.33 sec, Loss: 1.557, ValAcc: 0.73280, TrainAcc: 0.74400
+Epoch: 18, 280.07 sec, Loss: 1.499, ValAcc: 0.73865, TrainAcc: 0.75005
+Epoch: 19, 294.91 sec, Loss: 1.446, ValAcc: 0.74440, TrainAcc: 0.75587
+Epoch: 20, 309.77 sec, Loss: 1.397, ValAcc: 0.74965, TrainAcc: 0.76172
+Epoch: 21, 326.23 sec, Loss: 1.352, ValAcc: 0.75615, TrainAcc: 0.76730
+Epoch: 22, 340.87 sec, Loss: 1.312, ValAcc: 0.76120, TrainAcc: 0.77240
+Epoch: 23, 355.84 sec, Loss: 1.275, ValAcc: 0.76665, TrainAcc: 0.77713
+Epoch: 24, 370.38 sec, Loss: 1.240, ValAcc: 0.77160, TrainAcc: 0.78220
+Epoch: 25, 384.77 sec, Loss: 1.209, ValAcc: 0.77495, TrainAcc: 0.78715
+Epoch: 26, 399.27 sec, Loss: 1.181, ValAcc: 0.77870, TrainAcc: 0.79117
+Epoch: 27, 414.30 sec, Loss: 1.155, ValAcc: 0.78180, TrainAcc: 0.79507
+Epoch: 28, 428.57 sec, Loss: 1.132, ValAcc: 0.78490, TrainAcc: 0.79845
+Epoch: 29, 442.86 sec, Loss: 1.110, ValAcc: 0.78770, TrainAcc: 0.80152
+Epoch: 30, 457.23 sec, Loss: 1.090, ValAcc: 0.79015, TrainAcc: 0.80467
+Epoch: 31, 471.61 sec, Loss: 1.072, ValAcc: 0.79320, TrainAcc: 0.80765
+Epoch: 32, 486.01 sec, Loss: 1.056, ValAcc: 0.79530, TrainAcc: 0.81028
+Epoch: 33, 500.25 sec, Loss: 1.041, ValAcc: 0.79750, TrainAcc: 0.81265
+Epoch: 34, 514.54 sec, Loss: 1.027, ValAcc: 0.79920, TrainAcc: 0.81417
+Epoch: 35, 528.84 sec, Loss: 1.014, ValAcc: 0.80140, TrainAcc: 0.81620
+Epoch: 36, 543.54 sec, Loss: 1.002, ValAcc: 0.80255, TrainAcc: 0.81813
+Epoch: 37, 558.31 sec, Loss: 0.990, ValAcc: 0.80385, TrainAcc: 0.82008
+Epoch: 38, 573.81 sec, Loss: 0.980, ValAcc: 0.80570, TrainAcc: 0.82218
+Epoch: 39, 588.10 sec, Loss: 0.970, ValAcc: 0.80780, TrainAcc: 0.82357
+Epoch: 40, 602.42 sec, Loss: 0.961, ValAcc: 0.80845, TrainAcc: 0.82507
+Epoch: 41, 617.07 sec, Loss: 0.952, ValAcc: 0.80995, TrainAcc: 0.82653
+Epoch: 42, 632.95 sec, Loss: 0.944, ValAcc: 0.81115, TrainAcc: 0.82848
+Epoch: 43, 647.56 sec, Loss: 0.937, ValAcc: 0.81245, TrainAcc: 0.83018
+Epoch: 44, 662.39 sec, Loss: 0.930, ValAcc: 0.81395, TrainAcc: 0.83143
+Epoch: 45, 677.27 sec, Loss: 0.923, ValAcc: 0.81485, TrainAcc: 0.83257
+Epoch: 46, 692.68 sec, Loss: 0.917, ValAcc: 0.81585, TrainAcc: 0.83373
+Epoch: 47, 707.28 sec, Loss: 0.911, ValAcc: 0.81695, TrainAcc: 0.83487
+Epoch: 48, 722.04 sec, Loss: 0.905, ValAcc: 0.81780, TrainAcc: 0.83597
+Epoch: 49, 736.30 sec, Loss: 0.900, ValAcc: 0.81870, TrainAcc: 0.83705
+
+
+PCA and then 1full with 0.00005 50 epochs
+***** 1fullpca 50 32
+n component = 50
+PCA Time:  82.1479229927063
+Run Time: 743.15 seconds
+Final Training Error: 0.77009
+Final Validation Error: 0.84421
+Final Testing Error: 0.84154
+Final Training Accuracy: 0.85372
+Final Validation Accuracy: 0.82810
+Final Testing Accuracy: 0.83104
+
+Epoch: 0, 15.80 sec, Loss: 3.759, ValAcc: 0.53645, TrainAcc: 0.54193
+Epoch: 1, 30.46 sec, Loss: 2.375, ValAcc: 0.65835, TrainAcc: 0.66587
+Epoch: 2, 45.02 sec, Loss: 1.774, ValAcc: 0.71110, TrainAcc: 0.72350
+Epoch: 3, 59.35 sec, Loss: 1.445, ValAcc: 0.74565, TrainAcc: 0.75688
+Epoch: 4, 74.81 sec, Loss: 1.247, ValAcc: 0.77005, TrainAcc: 0.78230
+Epoch: 5, 89.32 sec, Loss: 1.126, ValAcc: 0.78460, TrainAcc: 0.79793
+Epoch: 6, 103.88 sec, Loss: 1.053, ValAcc: 0.79320, TrainAcc: 0.80665
+Epoch: 7, 118.09 sec, Loss: 1.005, ValAcc: 0.79905, TrainAcc: 0.81353
+Epoch: 8, 132.81 sec, Loss: 0.973, ValAcc: 0.80435, TrainAcc: 0.81878
+Epoch: 9, 147.52 sec, Loss: 0.949, ValAcc: 0.80755, TrainAcc: 0.82302
+Epoch: 10, 162.14 sec, Loss: 0.931, ValAcc: 0.80900, TrainAcc: 0.82597
+Epoch: 11, 176.78 sec, Loss: 0.916, ValAcc: 0.81105, TrainAcc: 0.82860
+Epoch: 12, 191.95 sec, Loss: 0.904, ValAcc: 0.81305, TrainAcc: 0.83133
+Epoch: 13, 207.68 sec, Loss: 0.893, ValAcc: 0.81455, TrainAcc: 0.83318
+Epoch: 14, 223.70 sec, Loss: 0.883, ValAcc: 0.81630, TrainAcc: 0.83437
+Epoch: 15, 238.51 sec, Loss: 0.875, ValAcc: 0.81790, TrainAcc: 0.83630
+Epoch: 16, 253.14 sec, Loss: 0.868, ValAcc: 0.81915, TrainAcc: 0.83760
+Epoch: 17, 267.61 sec, Loss: 0.861, ValAcc: 0.81885, TrainAcc: 0.83852
+Epoch: 18, 282.75 sec, Loss: 0.855, ValAcc: 0.81975, TrainAcc: 0.83962
+Epoch: 19, 298.01 sec, Loss: 0.850, ValAcc: 0.82080, TrainAcc: 0.84043
+Epoch: 20, 312.63 sec, Loss: 0.845, ValAcc: 0.82110, TrainAcc: 0.84060
+Epoch: 21, 327.59 sec, Loss: 0.841, ValAcc: 0.82195, TrainAcc: 0.84135
+Epoch: 22, 342.24 sec, Loss: 0.837, ValAcc: 0.82275, TrainAcc: 0.84193
+Epoch: 23, 357.08 sec, Loss: 0.833, ValAcc: 0.82300, TrainAcc: 0.84287
+Epoch: 24, 371.47 sec, Loss: 0.830, ValAcc: 0.82340, TrainAcc: 0.84367
+Epoch: 25, 385.89 sec, Loss: 0.826, ValAcc: 0.82315, TrainAcc: 0.84413
+Epoch: 26, 400.46 sec, Loss: 0.823, ValAcc: 0.82345, TrainAcc: 0.84472
+Epoch: 27, 415.26 sec, Loss: 0.820, ValAcc: 0.82345, TrainAcc: 0.84518
+Epoch: 28, 429.67 sec, Loss: 0.816, ValAcc: 0.82465, TrainAcc: 0.84593
+Epoch: 29, 444.33 sec, Loss: 0.813, ValAcc: 0.82445, TrainAcc: 0.84645
+Epoch: 30, 459.42 sec, Loss: 0.811, ValAcc: 0.82560, TrainAcc: 0.84668
+Epoch: 31, 474.56 sec, Loss: 0.808, ValAcc: 0.82500, TrainAcc: 0.84725
+Epoch: 32, 490.32 sec, Loss: 0.805, ValAcc: 0.82590, TrainAcc: 0.84787
+Epoch: 33, 505.53 sec, Loss: 0.803, ValAcc: 0.82585, TrainAcc: 0.84808
+Epoch: 34, 520.17 sec, Loss: 0.800, ValAcc: 0.82620, TrainAcc: 0.84853
+Epoch: 35, 534.68 sec, Loss: 0.798, ValAcc: 0.82700, TrainAcc: 0.84925
+Epoch: 36, 549.57 sec, Loss: 0.795, ValAcc: 0.82685, TrainAcc: 0.84958
+Epoch: 37, 563.95 sec, Loss: 0.793, ValAcc: 0.82705, TrainAcc: 0.84975
+Epoch: 38, 578.41 sec, Loss: 0.791, ValAcc: 0.82785, TrainAcc: 0.85002
+Epoch: 39, 592.84 sec, Loss: 0.789, ValAcc: 0.82745, TrainAcc: 0.85017
+Epoch: 40, 607.76 sec, Loss: 0.787, ValAcc: 0.82770, TrainAcc: 0.85068
+Epoch: 41, 622.01 sec, Loss: 0.785, ValAcc: 0.82775, TrainAcc: 0.85105
+Epoch: 42, 636.51 sec, Loss: 0.783, ValAcc: 0.82765, TrainAcc: 0.85127
+Epoch: 43, 650.75 sec, Loss: 0.781, ValAcc: 0.82755, TrainAcc: 0.85163
+Epoch: 44, 665.71 sec, Loss: 0.779, ValAcc: 0.82785, TrainAcc: 0.85203
+Epoch: 45, 680.78 sec, Loss: 0.777, ValAcc: 0.82745, TrainAcc: 0.85215
+Epoch: 46, 696.46 sec, Loss: 0.775, ValAcc: 0.82765, TrainAcc: 0.85267
+Epoch: 47, 711.84 sec, Loss: 0.773, ValAcc: 0.82860, TrainAcc: 0.85337
+Epoch: 48, 727.50 sec, Loss: 0.772, ValAcc: 0.82875, TrainAcc: 0.85380
+Epoch: 49, 743.15 sec, Loss: 0.770, ValAcc: 0.82810, TrainAcc: 0.85372
+
+
+PCA and then 1conv with 0.00001 50 epochs
+***** 1convpca 50 32
+PCA Time:  26.901038885116577
+
+Run Time: 2178.29 seconds
+Final Training Error: 1.16957
+Final Validation Error: 1.36140
+Final Testing Error: 1.34933
+Final Training Accuracy: 0.82520
+Final Validation Accuracy: 0.74665
+Final Testing Accuracy: 0.74851
+
+Epoch: 0, 48.54 sec, Loss: 31.997, ValAcc: 0.31605, TrainAcc: 0.32327
+Epoch: 1, 91.99 sec, Loss: 21.406, ValAcc: 0.41800, TrainAcc: 0.43588
+Epoch: 2, 135.81 sec, Loss: 14.859, ValAcc: 0.48050, TrainAcc: 0.50278
+Epoch: 3, 180.06 sec, Loss: 10.852, ValAcc: 0.51965, TrainAcc: 0.54765
+Epoch: 4, 223.45 sec, Loss: 8.340, ValAcc: 0.54965, TrainAcc: 0.58325
+Epoch: 5, 266.12 sec, Loss: 6.693, ValAcc: 0.57410, TrainAcc: 0.60948
+Epoch: 6, 308.82 sec, Loss: 5.566, ValAcc: 0.59250, TrainAcc: 0.63027
+Epoch: 7, 351.35 sec, Loss: 4.760, ValAcc: 0.60840, TrainAcc: 0.64915
+Epoch: 8, 393.82 sec, Loss: 4.163, ValAcc: 0.62245, TrainAcc: 0.66540
+Epoch: 9, 436.72 sec, Loss: 3.708, ValAcc: 0.63215, TrainAcc: 0.68005
+Epoch: 10, 479.20 sec, Loss: 3.352, ValAcc: 0.64015, TrainAcc: 0.69222
+Epoch: 11, 524.36 sec, Loss: 3.066, ValAcc: 0.64970, TrainAcc: 0.70335
+Epoch: 12, 570.71 sec, Loss: 2.833, ValAcc: 0.65745, TrainAcc: 0.71288
+Epoch: 13, 617.70 sec, Loss: 2.640, ValAcc: 0.66470, TrainAcc: 0.72153
+Epoch: 14, 663.31 sec, Loss: 2.478, ValAcc: 0.67075, TrainAcc: 0.72923
+Epoch: 15, 709.89 sec, Loss: 2.340, ValAcc: 0.67535, TrainAcc: 0.73628
+Epoch: 16, 755.46 sec, Loss: 2.222, ValAcc: 0.68180, TrainAcc: 0.74228
+Epoch: 17, 801.60 sec, Loss: 2.120, ValAcc: 0.68545, TrainAcc: 0.74715
+Epoch: 18, 847.40 sec, Loss: 2.031, ValAcc: 0.68970, TrainAcc: 0.75182
+Epoch: 19, 894.11 sec, Loss: 1.952, ValAcc: 0.69255, TrainAcc: 0.75585
+Epoch: 20, 937.00 sec, Loss: 1.883, ValAcc: 0.69735, TrainAcc: 0.76068
+Epoch: 21, 980.63 sec, Loss: 1.821, ValAcc: 0.70205, TrainAcc: 0.76433
+Epoch: 22, 1024.81 sec, Loss: 1.765, ValAcc: 0.70350, TrainAcc: 0.76762
+Epoch: 23, 1069.34 sec, Loss: 1.715, ValAcc: 0.70665, TrainAcc: 0.77073
+Epoch: 24, 1111.52 sec, Loss: 1.670, ValAcc: 0.71040, TrainAcc: 0.77483
+Epoch: 25, 1153.58 sec, Loss: 1.629, ValAcc: 0.71275, TrainAcc: 0.77750
+Epoch: 26, 1196.29 sec, Loss: 1.592, ValAcc: 0.71495, TrainAcc: 0.78093
+Epoch: 27, 1238.48 sec, Loss: 1.557, ValAcc: 0.71720, TrainAcc: 0.78330
+Epoch: 28, 1280.90 sec, Loss: 1.525, ValAcc: 0.71965, TrainAcc: 0.78663
+Epoch: 29, 1323.06 sec, Loss: 1.496, ValAcc: 0.72055, TrainAcc: 0.78915
+Epoch: 30, 1365.25 sec, Loss: 1.469, ValAcc: 0.72265, TrainAcc: 0.79118
+Epoch: 31, 1407.47 sec, Loss: 1.444, ValAcc: 0.72410, TrainAcc: 0.79327
+Epoch: 32, 1451.05 sec, Loss: 1.420, ValAcc: 0.72635, TrainAcc: 0.79477
+Epoch: 33, 1493.34 sec, Loss: 1.398, ValAcc: 0.72775, TrainAcc: 0.79707
+Epoch: 34, 1535.53 sec, Loss: 1.378, ValAcc: 0.72905, TrainAcc: 0.79958
+Epoch: 35, 1577.79 sec, Loss: 1.359, ValAcc: 0.72965, TrainAcc: 0.80148
+Epoch: 36, 1619.81 sec, Loss: 1.340, ValAcc: 0.73095, TrainAcc: 0.80353
+Epoch: 37, 1662.31 sec, Loss: 1.323, ValAcc: 0.73250, TrainAcc: 0.80533
+Epoch: 38, 1704.42 sec, Loss: 1.306, ValAcc: 0.73400, TrainAcc: 0.80730
+Epoch: 39, 1746.69 sec, Loss: 1.291, ValAcc: 0.73480, TrainAcc: 0.80927
+Epoch: 40, 1788.98 sec, Loss: 1.276, ValAcc: 0.73625, TrainAcc: 0.81092
+Epoch: 41, 1831.11 sec, Loss: 1.262, ValAcc: 0.73730, TrainAcc: 0.81277
+Epoch: 42, 1873.37 sec, Loss: 1.248, ValAcc: 0.73980, TrainAcc: 0.81465
+Epoch: 43, 1915.47 sec, Loss: 1.235, ValAcc: 0.74015, TrainAcc: 0.81628
+Epoch: 44, 1957.65 sec, Loss: 1.223, ValAcc: 0.74210, TrainAcc: 0.81795
+Epoch: 45, 1999.79 sec, Loss: 1.212, ValAcc: 0.74295, TrainAcc: 0.81930
+Epoch: 46, 2042.76 sec, Loss: 1.200, ValAcc: 0.74350, TrainAcc: 0.82152
+Epoch: 47, 2087.21 sec, Loss: 1.190, ValAcc: 0.74445, TrainAcc: 0.82223
+Epoch: 48, 2133.11 sec, Loss: 1.179, ValAcc: 0.74565, TrainAcc: 0.82420
+Epoch: 49, 2178.29 sec, Loss: 1.170, ValAcc: 0.74665, TrainAcc: 0.82520
+
+
+1conv with pca reshaped into 10x10 at 00005
+n components: 100 reshaped into a 10x10
+***** 1convpca00005 50 32
+PCA Time:  32.714271068573
+Run Time: 2009.60 seconds
+Final Training Error: 0.91649
+Final Validation Error: 1.15326
+Final Testing Error: 1.14834
+Final Training Accuracy: 0.84403
+Final Validation Accuracy: 0.75700
+Final Testing Accuracy: 0.76230
+
+
+Epoch: 0, 43.82 sec, Loss: 8.208, ValAcc: 0.52690, TrainAcc: 0.54845
+Epoch: 1, 85.54 sec, Loss: 3.630, ValAcc: 0.59990, TrainAcc: 0.63130
+Epoch: 2, 126.44 sec, Loss: 2.487, ValAcc: 0.63195, TrainAcc: 0.66943
+Epoch: 3, 168.21 sec, Loss: 1.997, ValAcc: 0.65510, TrainAcc: 0.69487
+Epoch: 4, 209.38 sec, Loss: 1.731, ValAcc: 0.67225, TrainAcc: 0.71308
+Epoch: 5, 250.47 sec, Loss: 1.565, ValAcc: 0.68650, TrainAcc: 0.72698
+Epoch: 6, 291.67 sec, Loss: 1.452, ValAcc: 0.69835, TrainAcc: 0.73985
+Epoch: 7, 332.81 sec, Loss: 1.375, ValAcc: 0.70550, TrainAcc: 0.74922
+Epoch: 8, 373.76 sec, Loss: 1.319, ValAcc: 0.71165, TrainAcc: 0.75742
+Epoch: 9, 414.78 sec, Loss: 1.271, ValAcc: 0.71725, TrainAcc: 0.76337
+Epoch: 10, 455.75 sec, Loss: 1.230, ValAcc: 0.72245, TrainAcc: 0.77063
+Epoch: 11, 496.67 sec, Loss: 1.203, ValAcc: 0.72330, TrainAcc: 0.77420
+Epoch: 12, 537.39 sec, Loss: 1.179, ValAcc: 0.72795, TrainAcc: 0.77768
+Epoch: 13, 578.92 sec, Loss: 1.158, ValAcc: 0.73150, TrainAcc: 0.78283
+Epoch: 14, 619.64 sec, Loss: 1.132, ValAcc: 0.73605, TrainAcc: 0.78935
+Epoch: 15, 659.96 sec, Loss: 1.122, ValAcc: 0.73680, TrainAcc: 0.79000
+Epoch: 16, 699.90 sec, Loss: 1.106, ValAcc: 0.73850, TrainAcc: 0.79588
+Epoch: 17, 739.56 sec, Loss: 1.094, ValAcc: 0.74095, TrainAcc: 0.79742
+Epoch: 18, 779.20 sec, Loss: 1.082, ValAcc: 0.74070, TrainAcc: 0.80105
+Epoch: 19, 818.88 sec, Loss: 1.069, ValAcc: 0.74335, TrainAcc: 0.80478
+Epoch: 20, 858.44 sec, Loss: 1.061, ValAcc: 0.74765, TrainAcc: 0.80718
+Epoch: 21, 897.95 sec, Loss: 1.050, ValAcc: 0.74680, TrainAcc: 0.80838
+Epoch: 22, 937.53 sec, Loss: 1.044, ValAcc: 0.74860, TrainAcc: 0.81083
+Epoch: 23, 977.18 sec, Loss: 1.037, ValAcc: 0.74915, TrainAcc: 0.81220
+Epoch: 24, 1017.19 sec, Loss: 1.027, ValAcc: 0.75080, TrainAcc: 0.81600
+Epoch: 25, 1056.90 sec, Loss: 1.018, ValAcc: 0.74935, TrainAcc: 0.81747
+Epoch: 26, 1096.43 sec, Loss: 1.015, ValAcc: 0.75195, TrainAcc: 0.81937
+Epoch: 27, 1135.95 sec, Loss: 1.010, ValAcc: 0.75135, TrainAcc: 0.81988
+Epoch: 28, 1175.93 sec, Loss: 1.002, ValAcc: 0.75160, TrainAcc: 0.82075
+Epoch: 29, 1215.59 sec, Loss: 0.997, ValAcc: 0.75140, TrainAcc: 0.82343
+Epoch: 30, 1255.54 sec, Loss: 0.986, ValAcc: 0.75470, TrainAcc: 0.82597
+Epoch: 31, 1295.20 sec, Loss: 0.984, ValAcc: 0.75305, TrainAcc: 0.82483
+Epoch: 32, 1335.23 sec, Loss: 0.980, ValAcc: 0.75245, TrainAcc: 0.82698
+Epoch: 33, 1375.08 sec, Loss: 0.972, ValAcc: 0.75590, TrainAcc: 0.83040
+Epoch: 34, 1414.88 sec, Loss: 0.968, ValAcc: 0.75675, TrainAcc: 0.83010
+Epoch: 35, 1454.79 sec, Loss: 0.966, ValAcc: 0.75365, TrainAcc: 0.83082
+Epoch: 36, 1494.91 sec, Loss: 0.966, ValAcc: 0.75380, TrainAcc: 0.83042
+Epoch: 37, 1534.89 sec, Loss: 0.951, ValAcc: 0.75975, TrainAcc: 0.83407
+Epoch: 38, 1574.88 sec, Loss: 0.954, ValAcc: 0.75665, TrainAcc: 0.83310
+Epoch: 39, 1614.78 sec, Loss: 0.949, ValAcc: 0.75530, TrainAcc: 0.83413
+Epoch: 40, 1654.57 sec, Loss: 0.942, ValAcc: 0.75790, TrainAcc: 0.83782
+Epoch: 41, 1694.25 sec, Loss: 0.938, ValAcc: 0.75825, TrainAcc: 0.83753
+Epoch: 42, 1734.20 sec, Loss: 0.937, ValAcc: 0.75705, TrainAcc: 0.83993
+Epoch: 43, 1774.25 sec, Loss: 0.933, ValAcc: 0.75810, TrainAcc: 0.83995
+Epoch: 44, 1813.84 sec, Loss: 0.933, ValAcc: 0.75655, TrainAcc: 0.84005
+Epoch: 45, 1853.10 sec, Loss: 0.928, ValAcc: 0.75880, TrainAcc: 0.84187
+Epoch: 46, 1892.30 sec, Loss: 0.923, ValAcc: 0.75790, TrainAcc: 0.84337
+Epoch: 47, 1931.33 sec, Loss: 0.922, ValAcc: 0.75745, TrainAcc: 0.84253
+Epoch: 48, 1970.44 sec, Loss: 0.921, ValAcc: 0.75730, TrainAcc: 0.84285
+Epoch: 49, 2009.60 sec, Loss: 0.916, ValAcc: 0.75700, TrainAcc: 0.84403
+
+
+1conv 50 epochs 00001 learning rate 
+***** 1conv00001 50 32
+Run Time: 21003.76 seconds
+Final Training Error: 0.69458
+Final Validation Error: 0.84771
+Final Testing Error: 0.84641
+Final Training Accuracy: 0.92372
+Final Validation Accuracy: 0.86485
+Final Testing Accuracy: 0.86879
+
+Epoch: 0, 337.77 sec, Loss: 41.830, ValAcc: 0.66200, TrainAcc: 0.68758
+Epoch: 1, 746.84 sec, Loss: 24.378, ValAcc: 0.74550, TrainAcc: 0.77762
+Epoch: 2, 1185.62 sec, Loss: 16.271, ValAcc: 0.77145, TrainAcc: 0.81050
+Epoch: 3, 1658.05 sec, Loss: 11.553, ValAcc: 0.79115, TrainAcc: 0.83327
+Epoch: 4, 2096.93 sec, Loss: 8.549, ValAcc: 0.80285, TrainAcc: 0.84935
+Epoch: 5, 2537.29 sec, Loss: 6.528, ValAcc: 0.81090, TrainAcc: 0.85843
+Epoch: 6, 2975.20 sec, Loss: 5.107, ValAcc: 0.81755, TrainAcc: 0.86718
+Epoch: 7, 3383.56 sec, Loss: 4.081, ValAcc: 0.82055, TrainAcc: 0.87120
+Epoch: 8, 3804.40 sec, Loss: 3.316, ValAcc: 0.82625, TrainAcc: 0.87848
+Epoch: 9, 4209.83 sec, Loss: 2.735, ValAcc: 0.83230, TrainAcc: 0.88627
+Epoch: 10, 4627.48 sec, Loss: 2.299, ValAcc: 0.83580, TrainAcc: 0.89003
+Epoch: 11, 5047.66 sec, Loss: 1.965, ValAcc: 0.83865, TrainAcc: 0.89318
+Epoch: 12, 5474.84 sec, Loss: 1.706, ValAcc: 0.84235, TrainAcc: 0.89840
+Epoch: 13, 5895.97 sec, Loss: 1.512, ValAcc: 0.84610, TrainAcc: 0.90238
+Epoch: 14, 6328.46 sec, Loss: 1.362, ValAcc: 0.84700, TrainAcc: 0.90440
+Epoch: 15, 6752.05 sec, Loss: 1.252, ValAcc: 0.84990, TrainAcc: 0.90558
+Epoch: 16, 7199.85 sec, Loss: 1.166, ValAcc: 0.85235, TrainAcc: 0.90803
+Epoch: 17, 7648.50 sec, Loss: 1.105, ValAcc: 0.85330, TrainAcc: 0.90813
+Epoch: 18, 8077.08 sec, Loss: 1.051, ValAcc: 0.85485, TrainAcc: 0.91003
+Epoch: 19, 8508.81 sec, Loss: 1.012, ValAcc: 0.85490, TrainAcc: 0.91008
+Epoch: 20, 8940.41 sec, Loss: 0.979, ValAcc: 0.85590, TrainAcc: 0.91093
+Epoch: 21, 9368.93 sec, Loss: 0.949, ValAcc: 0.85660, TrainAcc: 0.91120
+Epoch: 22, 9796.44 sec, Loss: 0.922, ValAcc: 0.85910, TrainAcc: 0.91268
+Epoch: 23, 10215.37 sec, Loss: 0.903, ValAcc: 0.85820, TrainAcc: 0.91342
+Epoch: 24, 10619.37 sec, Loss: 0.883, ValAcc: 0.85895, TrainAcc: 0.91473
+Epoch: 25, 11028.69 sec, Loss: 0.868, ValAcc: 0.85955, TrainAcc: 0.91462
+Epoch: 26, 11441.29 sec, Loss: 0.854, ValAcc: 0.85980, TrainAcc: 0.91498
+Epoch: 27, 11851.10 sec, Loss: 0.839, ValAcc: 0.86080, TrainAcc: 0.91612
+Epoch: 28, 12261.66 sec, Loss: 0.827, ValAcc: 0.86175, TrainAcc: 0.91648
+Epoch: 29, 12676.25 sec, Loss: 0.816, ValAcc: 0.86230, TrainAcc: 0.91697
+Epoch: 30, 13088.83 sec, Loss: 0.806, ValAcc: 0.86245, TrainAcc: 0.91683
+Epoch: 31, 13498.74 sec, Loss: 0.797, ValAcc: 0.86325, TrainAcc: 0.91707
+Epoch: 32, 13940.50 sec, Loss: 0.786, ValAcc: 0.86345, TrainAcc: 0.91863
+Epoch: 33, 14389.49 sec, Loss: 0.779, ValAcc: 0.86365, TrainAcc: 0.91828
+Epoch: 34, 14810.95 sec, Loss: 0.771, ValAcc: 0.86300, TrainAcc: 0.91845
+Epoch: 35, 15232.42 sec, Loss: 0.767, ValAcc: 0.86295, TrainAcc: 0.91877
+Epoch: 36, 15663.20 sec, Loss: 0.758, ValAcc: 0.86430, TrainAcc: 0.91877
+Epoch: 37, 16088.86 sec, Loss: 0.751, ValAcc: 0.86460, TrainAcc: 0.92083
+Epoch: 38, 16498.05 sec, Loss: 0.747, ValAcc: 0.86385, TrainAcc: 0.92003
+Epoch: 39, 16909.35 sec, Loss: 0.742, ValAcc: 0.86340, TrainAcc: 0.92018
+Epoch: 40, 17319.53 sec, Loss: 0.736, ValAcc: 0.86435, TrainAcc: 0.92048
+Epoch: 41, 17730.23 sec, Loss: 0.730, ValAcc: 0.86425, TrainAcc: 0.92073
+Epoch: 42, 18136.49 sec, Loss: 0.725, ValAcc: 0.86475, TrainAcc: 0.92123
+Epoch: 43, 18544.02 sec, Loss: 0.721, ValAcc: 0.86405, TrainAcc: 0.92200
+Epoch: 44, 18955.85 sec, Loss: 0.719, ValAcc: 0.86420, TrainAcc: 0.92130
+Epoch: 45, 19367.15 sec, Loss: 0.712, ValAcc: 0.86440, TrainAcc: 0.92255
+Epoch: 46, 19775.63 sec, Loss: 0.708, ValAcc: 0.86485, TrainAcc: 0.92243
+Epoch: 47, 20201.47 sec, Loss: 0.702, ValAcc: 0.86555, TrainAcc: 0.92313
+Epoch: 48, 20595.30 sec, Loss: 0.700, ValAcc: 0.86495, TrainAcc: 0.92302
+Epoch: 49, 21003.76 sec, Loss: 0.695, ValAcc: 0.86485, TrainAcc: 0.92372
+
+
+
+2conv with 00005 learning rate 50 epochs
+***** 2conv00005 50 32
+
+Run Time: 19131.35 seconds
+Final Training Error: 0.43590
+Final Validation Error: 0.60612
+Final Testing Error: 0.59925
+Final Training Accuracy: 0.95747
+Final Validation Accuracy: 0.90370
+Final Testing Accuracy: 0.90725
+
+Epoch: 0, 355.89 sec, Loss: 8.240, ValAcc: 0.79835, TrainAcc: 0.81713
+Epoch: 1, 744.96 sec, Loss: 2.328, ValAcc: 0.83900, TrainAcc: 0.85755
+Epoch: 2, 1139.40 sec, Loss: 1.430, ValAcc: 0.85805, TrainAcc: 0.87897
+Epoch: 3, 1544.88 sec, Loss: 1.122, ValAcc: 0.87125, TrainAcc: 0.89540
+Epoch: 4, 1948.91 sec, Loss: 0.985, ValAcc: 0.87510, TrainAcc: 0.90142
+Epoch: 5, 2361.07 sec, Loss: 0.898, ValAcc: 0.87985, TrainAcc: 0.90782
+Epoch: 6, 2735.55 sec, Loss: 0.836, ValAcc: 0.88420, TrainAcc: 0.91368
+Epoch: 7, 3121.88 sec, Loss: 0.792, ValAcc: 0.88730, TrainAcc: 0.91717
+Epoch: 8, 3520.70 sec, Loss: 0.750, ValAcc: 0.89030, TrainAcc: 0.92168
+Epoch: 9, 3922.48 sec, Loss: 0.720, ValAcc: 0.89215, TrainAcc: 0.92450
+Epoch: 10, 4315.24 sec, Loss: 0.695, ValAcc: 0.89225, TrainAcc: 0.92595
+Epoch: 11, 4682.23 sec, Loss: 0.674, ValAcc: 0.89285, TrainAcc: 0.92708
+Epoch: 12, 5054.16 sec, Loss: 0.655, ValAcc: 0.89615, TrainAcc: 0.92827
+Epoch: 13, 5436.40 sec, Loss: 0.638, ValAcc: 0.89660, TrainAcc: 0.92982
+Epoch: 14, 5812.99 sec, Loss: 0.618, ValAcc: 0.89910, TrainAcc: 0.93277
+Epoch: 15, 6201.30 sec, Loss: 0.605, ValAcc: 0.89835, TrainAcc: 0.93340
+Epoch: 16, 6578.74 sec, Loss: 0.591, ValAcc: 0.89975, TrainAcc: 0.93460
+Epoch: 17, 6955.96 sec, Loss: 0.582, ValAcc: 0.90005, TrainAcc: 0.93537
+Epoch: 18, 7346.42 sec, Loss: 0.571, ValAcc: 0.90115, TrainAcc: 0.93660
+Epoch: 19, 7708.66 sec, Loss: 0.561, ValAcc: 0.90200, TrainAcc: 0.93825
+Epoch: 20, 8091.27 sec, Loss: 0.553, ValAcc: 0.90190, TrainAcc: 0.94007
+Epoch: 21, 8462.07 sec, Loss: 0.544, ValAcc: 0.90235, TrainAcc: 0.94118
+Epoch: 22, 8845.62 sec, Loss: 0.540, ValAcc: 0.90210, TrainAcc: 0.94140
+Epoch: 23, 9236.79 sec, Loss: 0.530, ValAcc: 0.90395, TrainAcc: 0.94337
+Epoch: 24, 9621.41 sec, Loss: 0.526, ValAcc: 0.90405, TrainAcc: 0.94288
+Epoch: 25, 10007.54 sec, Loss: 0.519, ValAcc: 0.90400, TrainAcc: 0.94555
+Epoch: 26, 10398.19 sec, Loss: 0.513, ValAcc: 0.90370, TrainAcc: 0.94510
+Epoch: 27, 10773.98 sec, Loss: 0.512, ValAcc: 0.90355, TrainAcc: 0.94478
+Epoch: 28, 11150.64 sec, Loss: 0.505, ValAcc: 0.90430, TrainAcc: 0.94572
+Epoch: 29, 11511.39 sec, Loss: 0.500, ValAcc: 0.90285, TrainAcc: 0.94655
+Epoch: 30, 11888.24 sec, Loss: 0.497, ValAcc: 0.90335, TrainAcc: 0.94690
+Epoch: 31, 12275.62 sec, Loss: 0.495, ValAcc: 0.90335, TrainAcc: 0.94665
+Epoch: 32, 12666.15 sec, Loss: 0.491, ValAcc: 0.90355, TrainAcc: 0.94742
+Epoch: 33, 13052.63 sec, Loss: 0.487, ValAcc: 0.90225, TrainAcc: 0.94795
+Epoch: 34, 13429.54 sec, Loss: 0.483, ValAcc: 0.90370, TrainAcc: 0.94852
+Epoch: 35, 13821.37 sec, Loss: 0.482, ValAcc: 0.90185, TrainAcc: 0.94843
+Epoch: 36, 14210.08 sec, Loss: 0.477, ValAcc: 0.90295, TrainAcc: 0.94963
+Epoch: 37, 14606.68 sec, Loss: 0.473, ValAcc: 0.90290, TrainAcc: 0.95103
+Epoch: 38, 14990.59 sec, Loss: 0.469, ValAcc: 0.90285, TrainAcc: 0.95123
+Epoch: 39, 15362.51 sec, Loss: 0.468, ValAcc: 0.90295, TrainAcc: 0.95162
+Epoch: 40, 15735.78 sec, Loss: 0.463, ValAcc: 0.90225, TrainAcc: 0.95232
+Epoch: 41, 16118.51 sec, Loss: 0.463, ValAcc: 0.90275, TrainAcc: 0.95182
+Epoch: 42, 16514.07 sec, Loss: 0.459, ValAcc: 0.90195, TrainAcc: 0.95308
+Epoch: 43, 16909.33 sec, Loss: 0.456, ValAcc: 0.90225, TrainAcc: 0.95285
+Epoch: 44, 17273.70 sec, Loss: 0.452, ValAcc: 0.90315, TrainAcc: 0.95348
+Epoch: 45, 17644.47 sec, Loss: 0.449, ValAcc: 0.90205, TrainAcc: 0.95480
+Epoch: 46, 18015.99 sec, Loss: 0.446, ValAcc: 0.90185, TrainAcc: 0.95502
+Epoch: 47, 18396.65 sec, Loss: 0.447, ValAcc: 0.90140, TrainAcc: 0.95405
+Epoch: 48, 18766.24 sec, Loss: 0.438, ValAcc: 0.90290, TrainAcc: 0.95622
+Epoch: 49, 19131.35 sec, Loss: 0.436, ValAcc: 0.90370, TrainAcc: 0.95747
+
+
+
+
+***** 1convNoPoolpca00005 50 32
+
+PCA Time:  37.240675926208496
+n components = 100
+Run Time: 8535.92 seconds
+
+Final Training Error: 0.64910
+
+Final Validation Error: 0.86740
+
+Final Testing Error: 0.87272
+
+Final Training Accuracy: 0.91828
+
+Final Validation Accuracy: 0.83885
+
+Final Testing Accuracy: 0.84120
+
+Epoch: 0, 170.40 sec, Loss: 6.542, ValAcc: 0.71485, TrainAcc: 0.74613
+
+Epoch: 1, 336.60 sec, Loss: 2.768, ValAcc: 0.75970, TrainAcc: 0.79312
+
+Epoch: 2, 504.78 sec, Loss: 1.837, ValAcc: 0.78090, TrainAcc: 0.81397
+
+Epoch: 3, 673.54 sec, Loss: 1.452, ValAcc: 0.79585, TrainAcc: 0.82743
+
+Epoch: 4, 834.18 sec, Loss: 1.257, ValAcc: 0.80200, TrainAcc: 0.83495
+
+Epoch: 5, 996.01 sec, Loss: 1.144, ValAcc: 0.80710, TrainAcc: 0.83917
+
+Epoch: 6, 1156.64 sec, Loss: 1.071, ValAcc: 0.81135, TrainAcc: 0.84398
+
+Epoch: 7, 1317.58 sec, Loss: 1.014, ValAcc: 0.81885, TrainAcc: 0.84885
+
+Epoch: 8, 1481.53 sec, Loss: 0.977, ValAcc: 0.81940, TrainAcc: 0.85057
+
+Epoch: 9, 1651.01 sec, Loss: 0.947, ValAcc: 0.82175, TrainAcc: 0.85377
+
+Epoch: 10, 1822.00 sec, Loss: 0.925, ValAcc: 0.82465, TrainAcc: 0.85662
+
+Epoch: 11, 2001.09 sec, Loss: 0.908, ValAcc: 0.82540, TrainAcc: 0.85943
+
+Epoch: 12, 2170.34 sec, Loss: 0.896, ValAcc: 0.82700, TrainAcc: 0.86108
+
+Epoch: 13, 2340.29 sec, Loss: 0.885, ValAcc: 0.82615, TrainAcc: 0.86232
+
+Epoch: 14, 2509.60 sec, Loss: 0.874, ValAcc: 0.82850, TrainAcc: 0.86487
+
+Epoch: 15, 2680.17 sec, Loss: 0.865, ValAcc: 0.82695, TrainAcc: 0.86597
+
+Epoch: 16, 2854.91 sec, Loss: 0.853, ValAcc: 0.82885, TrainAcc: 0.86822
+
+Epoch: 17, 3034.59 sec, Loss: 0.843, ValAcc: 0.82970, TrainAcc: 0.87160
+
+Epoch: 18, 3212.03 sec, Loss: 0.835, ValAcc: 0.83020, TrainAcc: 0.87217
+
+Epoch: 19, 3385.45 sec, Loss: 0.824, ValAcc: 0.83235, TrainAcc: 0.87500
+
+Epoch: 20, 3552.86 sec, Loss: 0.815, ValAcc: 0.83265, TrainAcc: 0.87760
+
+Epoch: 21, 3723.20 sec, Loss: 0.806, ValAcc: 0.83420, TrainAcc: 0.87855
+
+Epoch: 22, 3905.12 sec, Loss: 0.798, ValAcc: 0.83275, TrainAcc: 0.88070
+
+Epoch: 23, 4085.94 sec, Loss: 0.790, ValAcc: 0.83480, TrainAcc: 0.88307
+
+Epoch: 24, 4262.81 sec, Loss: 0.782, ValAcc: 0.83465, TrainAcc: 0.88517
+
+Epoch: 25, 4438.37 sec, Loss: 0.778, ValAcc: 0.83520, TrainAcc: 0.88462
+
+Epoch: 26, 4597.16 sec, Loss: 0.771, ValAcc: 0.83560, TrainAcc: 0.88690
+
+Epoch: 27, 4750.46 sec, Loss: 0.761, ValAcc: 0.83650, TrainAcc: 0.88958
+
+Epoch: 28, 4917.65 sec, Loss: 0.755, ValAcc: 0.83675, TrainAcc: 0.89013
+
+Epoch: 29, 5091.18 sec, Loss: 0.749, ValAcc: 0.83745, TrainAcc: 0.89170
+
+Epoch: 30, 5262.96 sec, Loss: 0.743, ValAcc: 0.83805, TrainAcc: 0.89485
+
+Epoch: 31, 5434.69 sec, Loss: 0.736, ValAcc: 0.83845, TrainAcc: 0.89635
+
+Epoch: 32, 5609.73 sec, Loss: 0.729, ValAcc: 0.83815, TrainAcc: 0.89802
+
+Epoch: 33, 5782.25 sec, Loss: 0.722, ValAcc: 0.84010, TrainAcc: 0.89960
+
+Epoch: 34, 5962.37 sec, Loss: 0.715, ValAcc: 0.83875, TrainAcc: 0.90117
+
+Epoch: 35, 6139.75 sec, Loss: 0.711, ValAcc: 0.83945, TrainAcc: 0.90178
+
+Epoch: 36, 6315.26 sec, Loss: 0.705, ValAcc: 0.83975, TrainAcc: 0.90337
+
+Epoch: 37, 6490.59 sec, Loss: 0.700, ValAcc: 0.84015, TrainAcc: 0.90438
+
+Epoch: 38, 6665.37 sec, Loss: 0.695, ValAcc: 0.83965, TrainAcc: 0.90565
+
+Epoch: 39, 6842.52 sec, Loss: 0.690, ValAcc: 0.84025, TrainAcc: 0.90737
+
+Epoch: 40, 7018.28 sec, Loss: 0.686, ValAcc: 0.83910, TrainAcc: 0.90848
+
+Epoch: 41, 7193.83 sec, Loss: 0.682, ValAcc: 0.83900, TrainAcc: 0.90988
+
+Epoch: 42, 7367.25 sec, Loss: 0.675, ValAcc: 0.83790, TrainAcc: 0.91145
+
+Epoch: 43, 7535.67 sec, Loss: 0.671, ValAcc: 0.83925, TrainAcc: 0.91260
+
+Epoch: 44, 7701.84 sec, Loss: 0.667, ValAcc: 0.83945, TrainAcc: 0.91442
+
+Epoch: 45, 7869.46 sec, Loss: 0.661, ValAcc: 0.83850, TrainAcc: 0.91507
+
+Epoch: 46, 8034.63 sec, Loss: 0.658, ValAcc: 0.83765, TrainAcc: 0.91615
+
+Epoch: 47, 8203.64 sec, Loss: 0.656, ValAcc: 0.83970, TrainAcc: 0.91685
+
+Epoch: 48, 8370.24 sec, Loss: 0.650, ValAcc: 0.83895, TrainAcc: 0.91793
+
+Epoch: 49, 8535.92 sec, Loss: 0.649, ValAcc: 0.83885, TrainAcc: 0.91828
+
+
+
+
+
+***** 2fullpca00005 50 32
+
+Run Time: 2254.63 seconds
+
+Final Training Error: 0.64504
+
+Final Validation Error: 0.93576
+
+Final Testing Error: 0.92446
+
+Final Training Accuracy: 0.88310
+
+Final Validation Accuracy: 0.81230
+
+Final Testing Accuracy: 0.81596
+
+n components 50
+
+PCA Time:  126.53690099716187
+
+Epoch: 0, 53.55 sec, Loss: 10.798, ValAcc: 0.64735, TrainAcc: 0.66400
+
+Epoch: 1, 99.08 sec, Loss: 4.496, ValAcc: 0.69805, TrainAcc: 0.71665
+
+Epoch: 2, 143.88 sec, Loss: 2.560, ValAcc: 0.72665, TrainAcc: 0.74642
+
+Epoch: 3, 188.43 sec, Loss: 1.762, ValAcc: 0.74745, TrainAcc: 0.76727
+
+Epoch: 4, 234.44 sec, Loss: 1.371, ValAcc: 0.76245, TrainAcc: 0.78635
+
+Epoch: 5, 280.52 sec, Loss: 1.144, ValAcc: 0.78005, TrainAcc: 0.80300
+
+Epoch: 6, 325.39 sec, Loss: 0.998, ValAcc: 0.79505, TrainAcc: 0.81870
+
+Epoch: 7, 370.80 sec, Loss: 0.898, ValAcc: 0.80750, TrainAcc: 0.83158
+
+Epoch: 8, 415.70 sec, Loss: 0.834, ValAcc: 0.81425, TrainAcc: 0.83965
+
+Epoch: 9, 461.53 sec, Loss: 0.791, ValAcc: 0.81855, TrainAcc: 0.84583
+
+Epoch: 10, 508.78 sec, Loss: 0.764, ValAcc: 0.82040, TrainAcc: 0.85018
+
+Epoch: 11, 553.79 sec, Loss: 0.743, ValAcc: 0.82125, TrainAcc: 0.85335
+
+Epoch: 12, 599.39 sec, Loss: 0.728, ValAcc: 0.81935, TrainAcc: 0.85665
+
+Epoch: 13, 644.06 sec, Loss: 0.715, ValAcc: 0.82115, TrainAcc: 0.85970
+
+Epoch: 14, 689.24 sec, Loss: 0.705, ValAcc: 0.82095, TrainAcc: 0.86153
+
+Epoch: 15, 740.07 sec, Loss: 0.696, ValAcc: 0.82040, TrainAcc: 0.86208
+
+Epoch: 16, 788.69 sec, Loss: 0.691, ValAcc: 0.81945, TrainAcc: 0.86372
+
+Epoch: 17, 836.94 sec, Loss: 0.686, ValAcc: 0.81985, TrainAcc: 0.86487
+
+Epoch: 18, 881.00 sec, Loss: 0.686, ValAcc: 0.81835, TrainAcc: 0.86468
+
+Epoch: 19, 924.52 sec, Loss: 0.682, ValAcc: 0.81665, TrainAcc: 0.86637
+
+Epoch: 20, 968.08 sec, Loss: 0.681, ValAcc: 0.81730, TrainAcc: 0.86588
+
+Epoch: 21, 1011.95 sec, Loss: 0.678, ValAcc: 0.81635, TrainAcc: 0.86648
+
+Epoch: 22, 1055.50 sec, Loss: 0.678, ValAcc: 0.81555, TrainAcc: 0.86630
+
+Epoch: 23, 1099.09 sec, Loss: 0.677, ValAcc: 0.81410, TrainAcc: 0.86717
+
+Epoch: 24, 1143.07 sec, Loss: 0.676, ValAcc: 0.81375, TrainAcc: 0.86700
+
+Epoch: 25, 1186.49 sec, Loss: 0.675, ValAcc: 0.81260, TrainAcc: 0.86768
+
+Epoch: 26, 1229.91 sec, Loss: 0.671, ValAcc: 0.81415, TrainAcc: 0.86892
+
+Epoch: 27, 1273.57 sec, Loss: 0.669, ValAcc: 0.81430, TrainAcc: 0.86948
+
+Epoch: 28, 1316.92 sec, Loss: 0.669, ValAcc: 0.81235, TrainAcc: 0.87030
+
+Epoch: 29, 1360.45 sec, Loss: 0.668, ValAcc: 0.81325, TrainAcc: 0.87000
+
+Epoch: 30, 1404.24 sec, Loss: 0.665, ValAcc: 0.81165, TrainAcc: 0.87283
+
+Epoch: 31, 1448.95 sec, Loss: 0.665, ValAcc: 0.81310, TrainAcc: 0.87250
+
+Epoch: 32, 1493.63 sec, Loss: 0.664, ValAcc: 0.81205, TrainAcc: 0.87340
+
+Epoch: 33, 1538.35 sec, Loss: 0.662, ValAcc: 0.81245, TrainAcc: 0.87390
+
+Epoch: 34, 1582.50 sec, Loss: 0.658, ValAcc: 0.81260, TrainAcc: 0.87517
+
+Epoch: 35, 1626.89 sec, Loss: 0.661, ValAcc: 0.81325, TrainAcc: 0.87453
+
+Epoch: 36, 1672.81 sec, Loss: 0.653, ValAcc: 0.81475, TrainAcc: 0.87775
+
+Epoch: 37, 1717.71 sec, Loss: 0.659, ValAcc: 0.81260, TrainAcc: 0.87572
+
+Epoch: 38, 1762.77 sec, Loss: 0.653, ValAcc: 0.81260, TrainAcc: 0.87678
+
+Epoch: 39, 1807.34 sec, Loss: 0.656, ValAcc: 0.81145, TrainAcc: 0.87675
+
+Epoch: 40, 1851.94 sec, Loss: 0.654, ValAcc: 0.81195, TrainAcc: 0.87812
+
+Epoch: 41, 1896.34 sec, Loss: 0.654, ValAcc: 0.81135, TrainAcc: 0.87882
+
+Epoch: 42, 1941.00 sec, Loss: 0.655, ValAcc: 0.81360, TrainAcc: 0.87818
+
+Epoch: 43, 1986.23 sec, Loss: 0.652, ValAcc: 0.81255, TrainAcc: 0.88005
+
+Epoch: 44, 2030.94 sec, Loss: 0.651, ValAcc: 0.81045, TrainAcc: 0.88018
+
+Epoch: 45, 2075.80 sec, Loss: 0.649, ValAcc: 0.81165, TrainAcc: 0.88138
+
+Epoch: 46, 2120.52 sec, Loss: 0.651, ValAcc: 0.81100, TrainAcc: 0.88055
+
+Epoch: 47, 2164.95 sec, Loss: 0.648, ValAcc: 0.81195, TrainAcc: 0.88252
+
+Epoch: 48, 2209.85 sec, Loss: 0.653, ValAcc: 0.80945, TrainAcc: 0.88103
+
+Epoch: 49, 2254.63 sec, Loss: 0.645, ValAcc: 0.81230, TrainAcc: 0.88310
+
+
+
+
+
+
+
+***** 1fullpca100_00005 50 32
+
+
+Run Time: 998.87 seconds
+100
+PCA Time:  78.28358292579651
+Final Training Error: 0.69669
+
+Final Validation Error: 0.79612
+
+Final Testing Error: 0.79662
+
+Final Training Accuracy: 0.88685
+
+Final Validation Accuracy: 0.85065
+
+Final Testing Accuracy: 0.85339
+
+Epoch: 0, 31.54 sec, Loss: 4.054, ValAcc: 0.53850, TrainAcc: 0.54798
+
+Epoch: 1, 58.63 sec, Loss: 2.370, ValAcc: 0.65985, TrainAcc: 0.67320
+
+Epoch: 2, 83.99 sec, Loss: 1.746, ValAcc: 0.71670, TrainAcc: 0.73308
+
+Epoch: 3, 108.64 sec, Loss: 1.408, ValAcc: 0.75435, TrainAcc: 0.77112
+
+Epoch: 4, 132.89 sec, Loss: 1.202, ValAcc: 0.78110, TrainAcc: 0.79978
+
+Epoch: 5, 157.36 sec, Loss: 1.074, ValAcc: 0.79930, TrainAcc: 0.81912
+
+Epoch: 6, 180.68 sec, Loss: 0.996, ValAcc: 0.81200, TrainAcc: 0.83148
+
+Epoch: 7, 200.72 sec, Loss: 0.945, ValAcc: 0.81970, TrainAcc: 0.84062
+
+Epoch: 8, 220.96 sec, Loss: 0.911, ValAcc: 0.82490, TrainAcc: 0.84700
+
+Epoch: 9, 244.28 sec, Loss: 0.887, ValAcc: 0.82915, TrainAcc: 0.85128
+
+Epoch: 10, 270.83 sec, Loss: 0.868, ValAcc: 0.83165, TrainAcc: 0.85447
+
+Epoch: 11, 295.47 sec, Loss: 0.853, ValAcc: 0.83395, TrainAcc: 0.85775
+
+Epoch: 12, 316.56 sec, Loss: 0.840, ValAcc: 0.83495, TrainAcc: 0.86050
+
+Epoch: 13, 338.53 sec, Loss: 0.829, ValAcc: 0.83680, TrainAcc: 0.86240
+
+Epoch: 14, 360.55 sec, Loss: 0.819, ValAcc: 0.83840, TrainAcc: 0.86430
+
+Epoch: 15, 382.66 sec, Loss: 0.810, ValAcc: 0.83975, TrainAcc: 0.86603
+
+Epoch: 16, 405.60 sec, Loss: 0.803, ValAcc: 0.84070, TrainAcc: 0.86755
+
+Epoch: 17, 426.89 sec, Loss: 0.796, ValAcc: 0.84185, TrainAcc: 0.86882
+
+Epoch: 18, 448.26 sec, Loss: 0.790, ValAcc: 0.84195, TrainAcc: 0.87023
+
+Epoch: 19, 466.93 sec, Loss: 0.784, ValAcc: 0.84185, TrainAcc: 0.87110
+
+Epoch: 20, 485.07 sec, Loss: 0.779, ValAcc: 0.84245, TrainAcc: 0.87203
+
+Epoch: 21, 503.01 sec, Loss: 0.774, ValAcc: 0.84335, TrainAcc: 0.87333
+
+Epoch: 22, 521.31 sec, Loss: 0.770, ValAcc: 0.84460, TrainAcc: 0.87358
+
+Epoch: 23, 539.12 sec, Loss: 0.765, ValAcc: 0.84540, TrainAcc: 0.87432
+
+Epoch: 24, 556.60 sec, Loss: 0.761, ValAcc: 0.84550, TrainAcc: 0.87515
+
+Epoch: 25, 574.34 sec, Loss: 0.757, ValAcc: 0.84620, TrainAcc: 0.87580
+
+Epoch: 26, 592.17 sec, Loss: 0.754, ValAcc: 0.84655, TrainAcc: 0.87668
+
+Epoch: 27, 609.82 sec, Loss: 0.751, ValAcc: 0.84750, TrainAcc: 0.87722
+
+Epoch: 28, 628.53 sec, Loss: 0.747, ValAcc: 0.84810, TrainAcc: 0.87790
+
+Epoch: 29, 645.97 sec, Loss: 0.744, ValAcc: 0.84805, TrainAcc: 0.87828
+
+Epoch: 30, 663.76 sec, Loss: 0.741, ValAcc: 0.84825, TrainAcc: 0.87885
+
+Epoch: 31, 681.31 sec, Loss: 0.738, ValAcc: 0.84900, TrainAcc: 0.87950
+
+Epoch: 32, 698.78 sec, Loss: 0.735, ValAcc: 0.84965, TrainAcc: 0.87957
+
+Epoch: 33, 716.52 sec, Loss: 0.732, ValAcc: 0.84995, TrainAcc: 0.88033
+
+Epoch: 34, 734.73 sec, Loss: 0.730, ValAcc: 0.84955, TrainAcc: 0.88052
+
+Epoch: 35, 752.16 sec, Loss: 0.727, ValAcc: 0.85025, TrainAcc: 0.88130
+
+Epoch: 36, 770.09 sec, Loss: 0.724, ValAcc: 0.84970, TrainAcc: 0.88168
+
+Epoch: 37, 787.63 sec, Loss: 0.722, ValAcc: 0.85075, TrainAcc: 0.88213
+
+Epoch: 38, 805.14 sec, Loss: 0.719, ValAcc: 0.85040, TrainAcc: 0.88245
+
+Epoch: 39, 822.71 sec, Loss: 0.717, ValAcc: 0.85060, TrainAcc: 0.88298
+
+Epoch: 40, 840.66 sec, Loss: 0.715, ValAcc: 0.85105, TrainAcc: 0.88320
+
+Epoch: 41, 858.21 sec, Loss: 0.713, ValAcc: 0.85085, TrainAcc: 0.88348
+
+Epoch: 42, 876.09 sec, Loss: 0.711, ValAcc: 0.84995, TrainAcc: 0.88372
+
+Epoch: 43, 893.86 sec, Loss: 0.708, ValAcc: 0.85025, TrainAcc: 0.88428
+
+Epoch: 44, 911.35 sec, Loss: 0.706, ValAcc: 0.85015, TrainAcc: 0.88450
+
+Epoch: 45, 928.92 sec, Loss: 0.704, ValAcc: 0.85095, TrainAcc: 0.88482
+
+Epoch: 46, 946.61 sec, Loss: 0.702, ValAcc: 0.85060, TrainAcc: 0.88583
+
+Epoch: 47, 964.04 sec, Loss: 0.700, ValAcc: 0.85110, TrainAcc: 0.88557
+
+Epoch: 48, 981.41 sec, Loss: 0.699, ValAcc: 0.85035, TrainAcc: 0.88588
+
+Epoch: 49, 998.87 sec, Loss: 0.697, ValAcc: 0.85065, TrainAcc: 0.88685
+
+
+
+
+
+
+***** 2convhalffilters 50 32
+
+Run Time: 5874.03 seconds
+
+Final Training Error: 0.42487
+
+Final Validation Error: 0.60908
+
+Final Testing Error: 0.60471
+
+Final Training Accuracy: 0.96052
+
+Final Validation Accuracy: 0.90160
+
+Final Testing Accuracy: 0.90461
+
+
+
+
+buildGraph2convhalffilters 16 and 32 instead of 32 and 64
+
+Epoch: 0, 158.72 sec, Loss: 9.850, ValAcc: 0.78805, TrainAcc: 0.81427
+
+Epoch: 1, 283.36 sec, Loss: 2.803, ValAcc: 0.83315, TrainAcc: 0.86343
+
+Epoch: 2, 404.68 sec, Loss: 1.537, ValAcc: 0.85155, TrainAcc: 0.88133
+
+Epoch: 3, 527.11 sec, Loss: 1.165, ValAcc: 0.86290, TrainAcc: 0.89223
+
+Epoch: 4, 648.55 sec, Loss: 1.001, ValAcc: 0.87050, TrainAcc: 0.89970
+
+Epoch: 5, 773.35 sec, Loss: 0.906, ValAcc: 0.87555, TrainAcc: 0.90660
+
+Epoch: 6, 897.50 sec, Loss: 0.844, ValAcc: 0.87835, TrainAcc: 0.91347
+
+Epoch: 7, 1022.57 sec, Loss: 0.802, ValAcc: 0.88230, TrainAcc: 0.91635
+
+Epoch: 8, 1146.03 sec, Loss: 0.768, ValAcc: 0.88510, TrainAcc: 0.91865
+
+Epoch: 9, 1266.26 sec, Loss: 0.740, ValAcc: 0.88675, TrainAcc: 0.92195
+
+Epoch: 10, 1392.75 sec, Loss: 0.720, ValAcc: 0.88890, TrainAcc: 0.92278
+
+Epoch: 11, 1518.91 sec, Loss: 0.695, ValAcc: 0.89105, TrainAcc: 0.92690
+
+Epoch: 12, 1637.56 sec, Loss: 0.675, ValAcc: 0.89245, TrainAcc: 0.92852
+
+Epoch: 13, 1759.03 sec, Loss: 0.659, ValAcc: 0.89245, TrainAcc: 0.92932
+
+Epoch: 14, 1877.66 sec, Loss: 0.645, ValAcc: 0.89290, TrainAcc: 0.93060
+
+Epoch: 15, 1995.93 sec, Loss: 0.628, ValAcc: 0.89340, TrainAcc: 0.93283
+
+Epoch: 16, 2118.80 sec, Loss: 0.615, ValAcc: 0.89470, TrainAcc: 0.93340
+
+Epoch: 17, 2237.39 sec, Loss: 0.603, ValAcc: 0.89495, TrainAcc: 0.93478
+
+Epoch: 18, 2356.91 sec, Loss: 0.590, ValAcc: 0.89615, TrainAcc: 0.93643
+
+Epoch: 19, 2476.18 sec, Loss: 0.580, ValAcc: 0.89725, TrainAcc: 0.93755
+
+Epoch: 20, 2594.92 sec, Loss: 0.571, ValAcc: 0.89890, TrainAcc: 0.93862
+
+Epoch: 21, 2713.21 sec, Loss: 0.560, ValAcc: 0.89975, TrainAcc: 0.94000
+
+Epoch: 22, 2831.49 sec, Loss: 0.551, ValAcc: 0.89970, TrainAcc: 0.94057
+
+Epoch: 23, 2948.36 sec, Loss: 0.542, ValAcc: 0.90050, TrainAcc: 0.94140
+
+Epoch: 24, 3069.89 sec, Loss: 0.533, ValAcc: 0.89985, TrainAcc: 0.94335
+
+Epoch: 25, 3191.97 sec, Loss: 0.526, ValAcc: 0.90155, TrainAcc: 0.94465
+
+Epoch: 26, 3308.17 sec, Loss: 0.518, ValAcc: 0.90205, TrainAcc: 0.94563
+
+Epoch: 27, 3418.75 sec, Loss: 0.512, ValAcc: 0.90055, TrainAcc: 0.94672
+
+Epoch: 28, 3528.37 sec, Loss: 0.508, ValAcc: 0.90065, TrainAcc: 0.94678
+
+Epoch: 29, 3637.23 sec, Loss: 0.499, ValAcc: 0.90055, TrainAcc: 0.94878
+
+Epoch: 30, 3746.11 sec, Loss: 0.497, ValAcc: 0.89980, TrainAcc: 0.94865
+
+Epoch: 31, 3854.95 sec, Loss: 0.491, ValAcc: 0.89955, TrainAcc: 0.94960
+
+Epoch: 32, 3963.51 sec, Loss: 0.484, ValAcc: 0.90065, TrainAcc: 0.95115
+
+Epoch: 33, 4071.96 sec, Loss: 0.479, ValAcc: 0.90095, TrainAcc: 0.95138
+
+Epoch: 34, 4180.71 sec, Loss: 0.475, ValAcc: 0.90150, TrainAcc: 0.95198
+
+Epoch: 35, 4289.19 sec, Loss: 0.472, ValAcc: 0.90120, TrainAcc: 0.95218
+
+Epoch: 36, 4397.59 sec, Loss: 0.466, ValAcc: 0.90135, TrainAcc: 0.95350
+
+Epoch: 37, 4506.22 sec, Loss: 0.463, ValAcc: 0.90110, TrainAcc: 0.95448
+
+Epoch: 38, 4614.46 sec, Loss: 0.460, ValAcc: 0.90170, TrainAcc: 0.95480
+
+Epoch: 39, 4723.11 sec, Loss: 0.458, ValAcc: 0.90160, TrainAcc: 0.95470
+
+Epoch: 40, 4831.48 sec, Loss: 0.451, ValAcc: 0.90200, TrainAcc: 0.95645
+
+Epoch: 41, 4939.78 sec, Loss: 0.449, ValAcc: 0.90185, TrainAcc: 0.95700
+
+Epoch: 42, 5059.42 sec, Loss: 0.445, ValAcc: 0.90150, TrainAcc: 0.95698
+
+Epoch: 43, 5175.50 sec, Loss: 0.442, ValAcc: 0.90170, TrainAcc: 0.95807
+
+Epoch: 44, 5292.72 sec, Loss: 0.436, ValAcc: 0.90175, TrainAcc: 0.95922
+
+Epoch: 45, 5409.70 sec, Loss: 0.436, ValAcc: 0.90300, TrainAcc: 0.95937
+
+Epoch: 46, 5531.86 sec, Loss: 0.430, ValAcc: 0.90205, TrainAcc: 0.95950
+
+Epoch: 47, 5649.35 sec, Loss: 0.432, ValAcc: 0.90130, TrainAcc: 0.95872
+
+Epoch: 48, 5761.09 sec, Loss: 0.428, ValAcc: 0.90170, TrainAcc: 0.95948
+
+Epoch: 49, 5874.03 sec, Loss: 0.425, ValAcc: 0.90160, TrainAcc: 0.96052
+
+
+
+
+***** 2convhalffilters 50 32
+
+Run Time: 5985.38 seconds
+
+Final Training Error: 0.51137
+
+Final Validation Error: 0.59811
+
+Final Testing Error: 0.59511
+
+Final Training Accuracy: 0.93147
+
+Final Validation Accuracy: 0.89960
+
+Final Testing Accuracy: 0.90295
+
+buildGraph2convhalffilters 16 and 32 instead of 32 and 64. 0.2 norm
+
+Epoch: 0, 154.12 sec, Loss: 7.782, ValAcc: 0.78585, TrainAcc: 0.80570
+
+Epoch: 1, 275.63 sec, Loss: 2.194, ValAcc: 0.83050, TrainAcc: 0.84740
+
+Epoch: 2, 395.09 sec, Loss: 1.454, ValAcc: 0.84915, TrainAcc: 0.86577
+
+Epoch: 3, 510.65 sec, Loss: 1.220, ValAcc: 0.86010, TrainAcc: 0.87638
+
+Epoch: 4, 639.45 sec, Loss: 1.103, ValAcc: 0.86220, TrainAcc: 0.87902
+
+Epoch: 5, 758.31 sec, Loss: 1.020, ValAcc: 0.86730, TrainAcc: 0.88362
+
+Epoch: 6, 870.69 sec, Loss: 0.958, ValAcc: 0.87165, TrainAcc: 0.88808
+
+Epoch: 7, 988.58 sec, Loss: 0.912, ValAcc: 0.87270, TrainAcc: 0.89083
+
+Epoch: 8, 1102.80 sec, Loss: 0.876, ValAcc: 0.87500, TrainAcc: 0.89182
+
+Epoch: 9, 1215.88 sec, Loss: 0.845, ValAcc: 0.87525, TrainAcc: 0.89282
+
+Epoch: 10, 1333.31 sec, Loss: 0.818, ValAcc: 0.87615, TrainAcc: 0.89442
+
+Epoch: 11, 1445.99 sec, Loss: 0.791, ValAcc: 0.87790, TrainAcc: 0.89757
+
+Epoch: 12, 1559.08 sec, Loss: 0.767, ValAcc: 0.87920, TrainAcc: 0.89952
+
+Epoch: 13, 1671.29 sec, Loss: 0.748, ValAcc: 0.88075, TrainAcc: 0.89985
+
+Epoch: 14, 1784.58 sec, Loss: 0.730, ValAcc: 0.88240, TrainAcc: 0.90177
+
+Epoch: 15, 1897.49 sec, Loss: 0.713, ValAcc: 0.88445, TrainAcc: 0.90322
+
+Epoch: 16, 2005.58 sec, Loss: 0.697, ValAcc: 0.88480, TrainAcc: 0.90448
+
+Epoch: 17, 2114.03 sec, Loss: 0.686, ValAcc: 0.88560, TrainAcc: 0.90535
+
+Epoch: 18, 2224.74 sec, Loss: 0.674, ValAcc: 0.88645, TrainAcc: 0.90668
+
+Epoch: 19, 2332.64 sec, Loss: 0.661, ValAcc: 0.88780, TrainAcc: 0.90793
+
+Epoch: 20, 2440.23 sec, Loss: 0.651, ValAcc: 0.88895, TrainAcc: 0.90918
+
+Epoch: 21, 2549.30 sec, Loss: 0.643, ValAcc: 0.88965, TrainAcc: 0.90928
+
+Epoch: 22, 2657.63 sec, Loss: 0.634, ValAcc: 0.89000, TrainAcc: 0.91078
+
+Epoch: 23, 2765.54 sec, Loss: 0.627, ValAcc: 0.89045, TrainAcc: 0.91063
+
+Epoch: 24, 2882.11 sec, Loss: 0.620, ValAcc: 0.89070, TrainAcc: 0.91192
+
+Epoch: 25, 3003.69 sec, Loss: 0.612, ValAcc: 0.89110, TrainAcc: 0.91283
+
+Epoch: 26, 3121.59 sec, Loss: 0.604, ValAcc: 0.89235, TrainAcc: 0.91450
+
+Epoch: 27, 3239.17 sec, Loss: 0.598, ValAcc: 0.89210, TrainAcc: 0.91568
+
+Epoch: 28, 3356.94 sec, Loss: 0.593, ValAcc: 0.89200, TrainAcc: 0.91585
+
+Epoch: 29, 3477.83 sec, Loss: 0.585, ValAcc: 0.89255, TrainAcc: 0.91772
+
+Epoch: 30, 3601.13 sec, Loss: 0.582, ValAcc: 0.89295, TrainAcc: 0.91800
+
+Epoch: 31, 3715.14 sec, Loss: 0.576, ValAcc: 0.89390, TrainAcc: 0.91923
+
+Epoch: 32, 3830.75 sec, Loss: 0.570, ValAcc: 0.89360, TrainAcc: 0.92047
+
+Epoch: 33, 3945.46 sec, Loss: 0.566, ValAcc: 0.89485, TrainAcc: 0.92128
+
+Epoch: 34, 4058.99 sec, Loss: 0.563, ValAcc: 0.89575, TrainAcc: 0.92180
+
+Epoch: 35, 4175.46 sec, Loss: 0.557, ValAcc: 0.89645, TrainAcc: 0.92253
+
+Epoch: 36, 4294.14 sec, Loss: 0.553, ValAcc: 0.89595, TrainAcc: 0.92347
+
+Epoch: 37, 4412.01 sec, Loss: 0.550, ValAcc: 0.89615, TrainAcc: 0.92327
+
+Epoch: 38, 4565.14 sec, Loss: 0.547, ValAcc: 0.89695, TrainAcc: 0.92408
+
+Epoch: 39, 4696.35 sec, Loss: 0.543, ValAcc: 0.89850, TrainAcc: 0.92485
+
+Epoch: 40, 4830.23 sec, Loss: 0.539, ValAcc: 0.89765, TrainAcc: 0.92613
+
+Epoch: 41, 4965.05 sec, Loss: 0.535, ValAcc: 0.89785, TrainAcc: 0.92643
+
+Epoch: 42, 5094.95 sec, Loss: 0.535, ValAcc: 0.89740, TrainAcc: 0.92570
+
+Epoch: 43, 5227.38 sec, Loss: 0.530, ValAcc: 0.89815, TrainAcc: 0.92652
+
+Epoch: 44, 5371.94 sec, Loss: 0.527, ValAcc: 0.89810, TrainAcc: 0.92782
+
+Epoch: 45, 5503.69 sec, Loss: 0.523, ValAcc: 0.89855, TrainAcc: 0.92867
+
+Epoch: 46, 5624.29 sec, Loss: 0.522, ValAcc: 0.89895, TrainAcc: 0.92860
+
+Epoch: 47, 5747.04 sec, Loss: 0.518, ValAcc: 0.89875, TrainAcc: 0.92928
+
+Epoch: 48, 5865.59 sec, Loss: 0.516, ValAcc: 0.89890, TrainAcc: 0.93033
+
+Epoch: 49, 5985.38 sec, Loss: 0.511, ValAcc: 0.89960, TrainAcc: 0.93147
+
+
+
+
+
+
+***** 1conv00005 50 32
+1conv regular 50 ecpochs 00005 learning rate
+
+Run Time: 18707.49 seconds
+Final Training Error: 0.61756
+Final Validation Error: 0.76632
+Final Testing Error: 0.75992
+Final Training Accuracy: 0.91582
+Final Validation Accuracy: 0.86175
+Final Testing Accuracy: 0.86723
+
+Epoch: 0, 377.01 sec, Loss: 5.265, ValAcc: 0.70455, TrainAcc: 0.72523
+Epoch: 1, 805.14 sec, Loss: 2.006, ValAcc: 0.76880, TrainAcc: 0.78690
+Epoch: 2, 1205.39 sec, Loss: 1.357, ValAcc: 0.79935, TrainAcc: 0.81805
+Epoch: 3, 1592.64 sec, Loss: 1.135, ValAcc: 0.81585, TrainAcc: 0.83648
+Epoch: 4, 1978.71 sec, Loss: 1.032, ValAcc: 0.82560, TrainAcc: 0.84373
+Epoch: 5, 2359.05 sec, Loss: 0.974, ValAcc: 0.82865, TrainAcc: 0.84993
+Epoch: 6, 2743.87 sec, Loss: 0.930, ValAcc: 0.83410, TrainAcc: 0.85685
+Epoch: 7, 3116.07 sec, Loss: 0.900, ValAcc: 0.83740, TrainAcc: 0.86142
+Epoch: 8, 3491.94 sec, Loss: 0.877, ValAcc: 0.83965, TrainAcc: 0.86365
+Epoch: 9, 3871.12 sec, Loss: 0.859, ValAcc: 0.84080, TrainAcc: 0.86990
+Epoch: 10, 4243.09 sec, Loss: 0.849, ValAcc: 0.84295, TrainAcc: 0.86852
+Epoch: 11, 4613.80 sec, Loss: 0.839, ValAcc: 0.84045, TrainAcc: 0.86890
+Epoch: 12, 4987.60 sec, Loss: 0.831, ValAcc: 0.84145, TrainAcc: 0.87005
+Epoch: 13, 5351.77 sec, Loss: 0.821, ValAcc: 0.84335, TrainAcc: 0.87140
+Epoch: 14, 5718.34 sec, Loss: 0.805, ValAcc: 0.84755, TrainAcc: 0.87643
+Epoch: 15, 6087.28 sec, Loss: 0.799, ValAcc: 0.84850, TrainAcc: 0.87692
+Epoch: 16, 6457.34 sec, Loss: 0.789, ValAcc: 0.84740, TrainAcc: 0.87952
+Epoch: 17, 6845.16 sec, Loss: 0.779, ValAcc: 0.84745, TrainAcc: 0.88037
+Epoch: 18, 7221.42 sec, Loss: 0.782, ValAcc: 0.84625, TrainAcc: 0.87893
+Epoch: 19, 7598.58 sec, Loss: 0.770, ValAcc: 0.84980, TrainAcc: 0.88212
+Epoch: 20, 7981.51 sec, Loss: 0.763, ValAcc: 0.85075, TrainAcc: 0.88395
+Epoch: 21, 8366.63 sec, Loss: 0.761, ValAcc: 0.84850, TrainAcc: 0.88312
+Epoch: 22, 8734.75 sec, Loss: 0.753, ValAcc: 0.85105, TrainAcc: 0.88423
+Epoch: 23, 9118.23 sec, Loss: 0.744, ValAcc: 0.85050, TrainAcc: 0.88542
+Epoch: 24, 9508.39 sec, Loss: 0.740, ValAcc: 0.85145, TrainAcc: 0.88585
+Epoch: 25, 9881.02 sec, Loss: 0.732, ValAcc: 0.85200, TrainAcc: 0.88715
+Epoch: 26, 10253.08 sec, Loss: 0.725, ValAcc: 0.85355, TrainAcc: 0.89020
+Epoch: 27, 10647.42 sec, Loss: 0.720, ValAcc: 0.85305, TrainAcc: 0.88925
+Epoch: 28, 11017.62 sec, Loss: 0.718, ValAcc: 0.85115, TrainAcc: 0.89143
+Epoch: 29, 11386.53 sec, Loss: 0.708, ValAcc: 0.85570, TrainAcc: 0.89330
+Epoch: 30, 11766.65 sec, Loss: 0.705, ValAcc: 0.85610, TrainAcc: 0.89470
+Epoch: 31, 12134.24 sec, Loss: 0.699, ValAcc: 0.85555, TrainAcc: 0.89572
+Epoch: 32, 12506.77 sec, Loss: 0.693, ValAcc: 0.85610, TrainAcc: 0.89812
+Epoch: 33, 12875.69 sec, Loss: 0.689, ValAcc: 0.85630, TrainAcc: 0.89770
+Epoch: 34, 13242.00 sec, Loss: 0.684, ValAcc: 0.85590, TrainAcc: 0.89843
+Epoch: 35, 13609.43 sec, Loss: 0.677, ValAcc: 0.85900, TrainAcc: 0.90258
+Epoch: 36, 13970.40 sec, Loss: 0.672, ValAcc: 0.85850, TrainAcc: 0.90202
+Epoch: 37, 14343.67 sec, Loss: 0.668, ValAcc: 0.85945, TrainAcc: 0.90312
+Epoch: 38, 14707.13 sec, Loss: 0.661, ValAcc: 0.86030, TrainAcc: 0.90517
+Epoch: 39, 15078.20 sec, Loss: 0.651, ValAcc: 0.86125, TrainAcc: 0.90695
+Epoch: 40, 15439.74 sec, Loss: 0.647, ValAcc: 0.86205, TrainAcc: 0.90822
+Epoch: 41, 15804.88 sec, Loss: 0.645, ValAcc: 0.85915, TrainAcc: 0.90763
+Epoch: 42, 16170.91 sec, Loss: 0.640, ValAcc: 0.86005, TrainAcc: 0.90962
+Epoch: 43, 16530.85 sec, Loss: 0.637, ValAcc: 0.86050, TrainAcc: 0.91072
+Epoch: 44, 16889.96 sec, Loss: 0.632, ValAcc: 0.86060, TrainAcc: 0.91178
+Epoch: 45, 17252.99 sec, Loss: 0.628, ValAcc: 0.86090, TrainAcc: 0.91342
+Epoch: 46, 17619.76 sec, Loss: 0.626, ValAcc: 0.86145, TrainAcc: 0.91298
+Epoch: 47, 17986.48 sec, Loss: 0.623, ValAcc: 0.86045, TrainAcc: 0.91398
+Epoch: 48, 18340.29 sec, Loss: 0.621, ValAcc: 0.86210, TrainAcc: 0.91383
+Epoch: 49, 18707.49 sec, Loss: 0.618, ValAcc: 0.86175, TrainAcc: 0.91582
+
+
+
+
+***** 2convhalfDrop 100 32
+buildGraph2convhalffilters 16 and 32 instead of 32 and 64. no norm, dropout 0.5, 100 epochs
+
+Run Time: 10027.19 seconds
+Final Training Error: 0.05433
+Final Validation Error: 0.99068
+Final Testing Error: 0.92238
+Final Training Accuracy: 0.98957
+Final Validation Accuracy: 0.87695
+Final Testing Accuracy: 0.87864
+
+
+Epoch: 0, 129.45 sec, Loss: 0.626, ValAcc: 0.79195, TrainAcc: 0.81492
+Epoch: 1, 237.08 sec, Loss: 0.466, ValAcc: 0.82690, TrainAcc: 0.86378
+Epoch: 2, 342.58 sec, Loss: 0.387, ValAcc: 0.83915, TrainAcc: 0.88657
+Epoch: 3, 441.80 sec, Loss: 0.328, ValAcc: 0.84660, TrainAcc: 0.90475
+Epoch: 4, 535.34 sec, Loss: 0.281, ValAcc: 0.85020, TrainAcc: 0.91825
+Epoch: 5, 632.33 sec, Loss: 0.244, ValAcc: 0.85285, TrainAcc: 0.92918
+Epoch: 6, 727.88 sec, Loss: 0.217, ValAcc: 0.85485, TrainAcc: 0.93713
+Epoch: 7, 822.32 sec, Loss: 0.189, ValAcc: 0.85645, TrainAcc: 0.94528
+Epoch: 8, 920.33 sec, Loss: 0.165, ValAcc: 0.85850, TrainAcc: 0.95222
+Epoch: 9, 1017.63 sec, Loss: 0.147, ValAcc: 0.85940, TrainAcc: 0.95678
+Epoch: 10, 1116.27 sec, Loss: 0.135, ValAcc: 0.86005, TrainAcc: 0.95983
+Epoch: 11, 1214.08 sec, Loss: 0.127, ValAcc: 0.86045, TrainAcc: 0.96225
+Epoch: 12, 1309.26 sec, Loss: 0.112, ValAcc: 0.86425, TrainAcc: 0.96655
+Epoch: 13, 1404.11 sec, Loss: 0.119, ValAcc: 0.85975, TrainAcc: 0.96395
+Epoch: 14, 1498.29 sec, Loss: 0.105, ValAcc: 0.86550, TrainAcc: 0.96920
+Epoch: 15, 1592.45 sec, Loss: 0.094, ValAcc: 0.86510, TrainAcc: 0.97288
+Epoch: 16, 1686.94 sec, Loss: 0.084, ValAcc: 0.86760, TrainAcc: 0.97565
+Epoch: 17, 1784.72 sec, Loss: 0.102, ValAcc: 0.86185, TrainAcc: 0.97023
+Epoch: 18, 1881.04 sec, Loss: 0.079, ValAcc: 0.87020, TrainAcc: 0.97763
+Epoch: 19, 1976.47 sec, Loss: 0.098, ValAcc: 0.86370, TrainAcc: 0.97123
+Epoch: 20, 2072.22 sec, Loss: 0.069, ValAcc: 0.87075, TrainAcc: 0.98097
+Epoch: 21, 2167.26 sec, Loss: 0.085, ValAcc: 0.86720, TrainAcc: 0.97612
+Epoch: 22, 2260.74 sec, Loss: 0.068, ValAcc: 0.87225, TrainAcc: 0.98130
+Epoch: 23, 2355.95 sec, Loss: 0.088, ValAcc: 0.86405, TrainAcc: 0.97527
+Epoch: 24, 2450.40 sec, Loss: 0.059, ValAcc: 0.87450, TrainAcc: 0.98512
+Epoch: 25, 2545.95 sec, Loss: 0.052, ValAcc: 0.87725, TrainAcc: 0.98763
+Epoch: 26, 2638.71 sec, Loss: 0.050, ValAcc: 0.87815, TrainAcc: 0.98807
+Epoch: 27, 2735.56 sec, Loss: 0.050, ValAcc: 0.87845, TrainAcc: 0.98812
+Epoch: 28, 2839.42 sec, Loss: 0.050, ValAcc: 0.87900, TrainAcc: 0.98828
+Epoch: 29, 2939.90 sec, Loss: 0.050, ValAcc: 0.87955, TrainAcc: 0.98838
+Epoch: 30, 3040.59 sec, Loss: 0.051, ValAcc: 0.87820, TrainAcc: 0.98828
+Epoch: 31, 3137.76 sec, Loss: 0.099, ValAcc: 0.86765, TrainAcc: 0.97322
+Epoch: 32, 3238.57 sec, Loss: 0.071, ValAcc: 0.86980, TrainAcc: 0.98197
+Epoch: 33, 3339.34 sec, Loss: 0.064, ValAcc: 0.87395, TrainAcc: 0.98442
+Epoch: 34, 3435.99 sec, Loss: 0.076, ValAcc: 0.87090, TrainAcc: 0.98043
+Epoch: 35, 3536.62 sec, Loss: 0.110, ValAcc: 0.86355, TrainAcc: 0.97110
+Epoch: 36, 3634.58 sec, Loss: 0.068, ValAcc: 0.87200, TrainAcc: 0.98277
+Epoch: 37, 3736.69 sec, Loss: 0.063, ValAcc: 0.87325, TrainAcc: 0.98467
+Epoch: 38, 3834.58 sec, Loss: 0.082, ValAcc: 0.86620, TrainAcc: 0.97928
+Epoch: 39, 3938.44 sec, Loss: 0.062, ValAcc: 0.87370, TrainAcc: 0.98487
+Epoch: 40, 4036.10 sec, Loss: 0.051, ValAcc: 0.87440, TrainAcc: 0.98858
+Epoch: 41, 4137.53 sec, Loss: 0.048, ValAcc: 0.87665, TrainAcc: 0.98970
+Epoch: 42, 4237.29 sec, Loss: 0.047, ValAcc: 0.87835, TrainAcc: 0.99017
+Epoch: 43, 4335.15 sec, Loss: 0.046, ValAcc: 0.88000, TrainAcc: 0.99040
+Epoch: 44, 4437.75 sec, Loss: 0.046, ValAcc: 0.88090, TrainAcc: 0.99063
+Epoch: 45, 4535.63 sec, Loss: 0.046, ValAcc: 0.88215, TrainAcc: 0.99097
+Epoch: 46, 4639.39 sec, Loss: 0.046, ValAcc: 0.88235, TrainAcc: 0.99097
+Epoch: 47, 4739.53 sec, Loss: 0.047, ValAcc: 0.88285, TrainAcc: 0.99110
+Epoch: 48, 4841.15 sec, Loss: 0.048, ValAcc: 0.88395, TrainAcc: 0.99122
+Epoch: 49, 4941.41 sec, Loss: 0.049, ValAcc: 0.88385, TrainAcc: 0.99132
+Epoch: 50, 5041.62 sec, Loss: 0.050, ValAcc: 0.88400, TrainAcc: 0.99135
+Epoch: 51, 5138.00 sec, Loss: 0.051, ValAcc: 0.88390, TrainAcc: 0.99163
+Epoch: 52, 5239.51 sec, Loss: 0.051, ValAcc: 0.88425, TrainAcc: 0.99183
+Epoch: 53, 5339.07 sec, Loss: 0.051, ValAcc: 0.88380, TrainAcc: 0.99220
+Epoch: 54, 5440.20 sec, Loss: 0.050, ValAcc: 0.88410, TrainAcc: 0.99230
+Epoch: 55, 5539.36 sec, Loss: 0.050, ValAcc: 0.88440, TrainAcc: 0.99212
+Epoch: 56, 5640.62 sec, Loss: 0.050, ValAcc: 0.88355, TrainAcc: 0.99235
+Epoch: 57, 5742.30 sec, Loss: 0.049, ValAcc: 0.88245, TrainAcc: 0.99255
+Epoch: 58, 5844.85 sec, Loss: 0.049, ValAcc: 0.88275, TrainAcc: 0.99250
+Epoch: 59, 5946.13 sec, Loss: 0.105, ValAcc: 0.86525, TrainAcc: 0.97733
+Epoch: 60, 6047.00 sec, Loss: 0.096, ValAcc: 0.86760, TrainAcc: 0.97895
+Epoch: 61, 6146.45 sec, Loss: 0.078, ValAcc: 0.86935, TrainAcc: 0.98355
+Epoch: 62, 6246.50 sec, Loss: 0.108, ValAcc: 0.86770, TrainAcc: 0.97767
+Epoch: 63, 6348.69 sec, Loss: 0.098, ValAcc: 0.86410, TrainAcc: 0.97803
+Epoch: 64, 6455.47 sec, Loss: 0.078, ValAcc: 0.86810, TrainAcc: 0.98275
+Epoch: 65, 6557.58 sec, Loss: 0.081, ValAcc: 0.86800, TrainAcc: 0.98172
+Epoch: 66, 6659.13 sec, Loss: 0.087, ValAcc: 0.86800, TrainAcc: 0.98047
+Epoch: 67, 6760.51 sec, Loss: 0.072, ValAcc: 0.86965, TrainAcc: 0.98405
+Epoch: 68, 6863.48 sec, Loss: 0.110, ValAcc: 0.86145, TrainAcc: 0.97475
+Epoch: 69, 6965.89 sec, Loss: 0.082, ValAcc: 0.86710, TrainAcc: 0.98167
+Epoch: 70, 7066.53 sec, Loss: 0.076, ValAcc: 0.86790, TrainAcc: 0.98293
+Epoch: 71, 7170.34 sec, Loss: 0.084, ValAcc: 0.86565, TrainAcc: 0.98117
+Epoch: 72, 7270.41 sec, Loss: 0.080, ValAcc: 0.86820, TrainAcc: 0.98218
+Epoch: 73, 7374.86 sec, Loss: 0.078, ValAcc: 0.86630, TrainAcc: 0.98178
+Epoch: 74, 7476.29 sec, Loss: 0.083, ValAcc: 0.86630, TrainAcc: 0.98087
+Epoch: 75, 7576.92 sec, Loss: 0.077, ValAcc: 0.86830, TrainAcc: 0.98322
+Epoch: 76, 7679.74 sec, Loss: 0.073, ValAcc: 0.86980, TrainAcc: 0.98388
+Epoch: 77, 7782.15 sec, Loss: 0.067, ValAcc: 0.86950, TrainAcc: 0.98555
+Epoch: 78, 7881.79 sec, Loss: 0.076, ValAcc: 0.87000, TrainAcc: 0.98243
+Epoch: 79, 7986.17 sec, Loss: 0.086, ValAcc: 0.86650, TrainAcc: 0.98152
+Epoch: 80, 8084.68 sec, Loss: 0.066, ValAcc: 0.87040, TrainAcc: 0.98602
+Epoch: 81, 8187.07 sec, Loss: 0.072, ValAcc: 0.87130, TrainAcc: 0.98448
+Epoch: 82, 8288.36 sec, Loss: 0.075, ValAcc: 0.87365, TrainAcc: 0.98353
+Epoch: 83, 8388.13 sec, Loss: 0.064, ValAcc: 0.87475, TrainAcc: 0.98677
+Epoch: 84, 8489.39 sec, Loss: 0.106, ValAcc: 0.86270, TrainAcc: 0.97565
+Epoch: 85, 8592.39 sec, Loss: 0.074, ValAcc: 0.86955, TrainAcc: 0.98375
+Epoch: 86, 8693.88 sec, Loss: 0.066, ValAcc: 0.87250, TrainAcc: 0.98578
+Epoch: 87, 8795.98 sec, Loss: 0.089, ValAcc: 0.86245, TrainAcc: 0.97862
+Epoch: 88, 8897.03 sec, Loss: 0.069, ValAcc: 0.87390, TrainAcc: 0.98570
+Epoch: 89, 8998.35 sec, Loss: 0.068, ValAcc: 0.87110, TrainAcc: 0.98613
+Epoch: 90, 9104.71 sec, Loss: 0.081, ValAcc: 0.86850, TrainAcc: 0.98235
+Epoch: 91, 9205.40 sec, Loss: 0.065, ValAcc: 0.86945, TrainAcc: 0.98657
+Epoch: 92, 9307.72 sec, Loss: 0.066, ValAcc: 0.87050, TrainAcc: 0.98590
+Epoch: 93, 9408.25 sec, Loss: 0.076, ValAcc: 0.86985, TrainAcc: 0.98305
+Epoch: 94, 9508.33 sec, Loss: 0.074, ValAcc: 0.86905, TrainAcc: 0.98375
+Epoch: 95, 9609.07 sec, Loss: 0.062, ValAcc: 0.87360, TrainAcc: 0.98678
+Epoch: 96, 9714.41 sec, Loss: 0.093, ValAcc: 0.86420, TrainAcc: 0.97902
+Epoch: 97, 9816.71 sec, Loss: 0.074, ValAcc: 0.87290, TrainAcc: 0.98350
+Epoch: 98, 9919.22 sec, Loss: 0.059, ValAcc: 0.87590, TrainAcc: 0.98812
+Epoch: 99, 10027.19 sec, Loss: 0.054, ValAcc: 0.87695, TrainAcc: 0.98957
+
+
+
+
+***** 1convhalf 75 32
+1conv with 16 filters instead of 32, 75 ecpochs 00005 learning rate
+
+Run Time: 12332.33 seconds
+Final Training Error: 0.59439
+Final Validation Error: 0.77679
+Final Testing Error: 0.77424
+Final Training Accuracy: 0.92203
+Final Validation Accuracy: 0.86255
+Final Testing Accuracy: 0.86329
+
+Epoch: 0, 174.20 sec, Loss: 7.319, ValAcc: 0.66505, TrainAcc: 0.68003
+Epoch: 1, 339.59 sec, Loss: 2.672, ValAcc: 0.73330, TrainAcc: 0.75680
+Epoch: 2, 501.55 sec, Loss: 1.640, ValAcc: 0.77540, TrainAcc: 0.80103
+Epoch: 3, 660.25 sec, Loss: 1.275, ValAcc: 0.79685, TrainAcc: 0.81993
+Epoch: 4, 812.54 sec, Loss: 1.133, ValAcc: 0.80405, TrainAcc: 0.82648
+Epoch: 5, 969.20 sec, Loss: 1.043, ValAcc: 0.81385, TrainAcc: 0.83855
+Epoch: 6, 1125.82 sec, Loss: 0.996, ValAcc: 0.81830, TrainAcc: 0.84512
+Epoch: 7, 1279.87 sec, Loss: 0.959, ValAcc: 0.82495, TrainAcc: 0.85092
+Epoch: 8, 1437.41 sec, Loss: 0.926, ValAcc: 0.82985, TrainAcc: 0.85720
+Epoch: 9, 1592.10 sec, Loss: 0.895, ValAcc: 0.83450, TrainAcc: 0.86282
+Epoch: 10, 1748.41 sec, Loss: 0.884, ValAcc: 0.83535, TrainAcc: 0.86245
+Epoch: 11, 1905.13 sec, Loss: 0.858, ValAcc: 0.84055, TrainAcc: 0.86957
+Epoch: 12, 2060.05 sec, Loss: 0.847, ValAcc: 0.84245, TrainAcc: 0.87187
+Epoch: 13, 2214.89 sec, Loss: 0.838, ValAcc: 0.84015, TrainAcc: 0.87097
+Epoch: 14, 2367.81 sec, Loss: 0.828, ValAcc: 0.84330, TrainAcc: 0.87310
+Epoch: 15, 2525.32 sec, Loss: 0.817, ValAcc: 0.84295, TrainAcc: 0.87408
+Epoch: 16, 2679.68 sec, Loss: 0.806, ValAcc: 0.84390, TrainAcc: 0.87505
+Epoch: 17, 2834.40 sec, Loss: 0.800, ValAcc: 0.84475, TrainAcc: 0.87762
+Epoch: 18, 2990.56 sec, Loss: 0.785, ValAcc: 0.84910, TrainAcc: 0.88147
+Epoch: 19, 3145.50 sec, Loss: 0.776, ValAcc: 0.84895, TrainAcc: 0.88278
+Epoch: 20, 3300.77 sec, Loss: 0.773, ValAcc: 0.84860, TrainAcc: 0.88265
+Epoch: 21, 3456.80 sec, Loss: 0.767, ValAcc: 0.85015, TrainAcc: 0.88393
+Epoch: 22, 3616.55 sec, Loss: 0.766, ValAcc: 0.84830, TrainAcc: 0.88278
+Epoch: 23, 3772.36 sec, Loss: 0.749, ValAcc: 0.85155, TrainAcc: 0.88790
+Epoch: 24, 3928.88 sec, Loss: 0.747, ValAcc: 0.85080, TrainAcc: 0.88693
+Epoch: 25, 4082.98 sec, Loss: 0.739, ValAcc: 0.85230, TrainAcc: 0.88882
+Epoch: 26, 4240.02 sec, Loss: 0.738, ValAcc: 0.85135, TrainAcc: 0.88758
+Epoch: 27, 4391.95 sec, Loss: 0.731, ValAcc: 0.85260, TrainAcc: 0.89003
+Epoch: 28, 4545.67 sec, Loss: 0.728, ValAcc: 0.85075, TrainAcc: 0.88917
+Epoch: 29, 4703.63 sec, Loss: 0.721, ValAcc: 0.85285, TrainAcc: 0.89113
+Epoch: 30, 4859.56 sec, Loss: 0.720, ValAcc: 0.85240, TrainAcc: 0.89100
+Epoch: 31, 5015.64 sec, Loss: 0.714, ValAcc: 0.85210, TrainAcc: 0.89305
+Epoch: 32, 5169.28 sec, Loss: 0.715, ValAcc: 0.85035, TrainAcc: 0.89108
+Epoch: 33, 5327.52 sec, Loss: 0.706, ValAcc: 0.85135, TrainAcc: 0.89415
+Epoch: 34, 5483.09 sec, Loss: 0.706, ValAcc: 0.85235, TrainAcc: 0.89327
+Epoch: 35, 5639.28 sec, Loss: 0.698, ValAcc: 0.85310, TrainAcc: 0.89550
+Epoch: 36, 5795.72 sec, Loss: 0.700, ValAcc: 0.84935, TrainAcc: 0.89370
+Epoch: 37, 5951.64 sec, Loss: 0.691, ValAcc: 0.85255, TrainAcc: 0.89730
+Epoch: 38, 6105.64 sec, Loss: 0.686, ValAcc: 0.85365, TrainAcc: 0.89768
+Epoch: 39, 6266.10 sec, Loss: 0.683, ValAcc: 0.85410, TrainAcc: 0.89995
+Epoch: 40, 6420.55 sec, Loss: 0.679, ValAcc: 0.85420, TrainAcc: 0.89968
+Epoch: 41, 6579.52 sec, Loss: 0.676, ValAcc: 0.85425, TrainAcc: 0.90162
+Epoch: 42, 6736.32 sec, Loss: 0.672, ValAcc: 0.85635, TrainAcc: 0.90255
+Epoch: 43, 6889.65 sec, Loss: 0.667, ValAcc: 0.85675, TrainAcc: 0.90360
+Epoch: 44, 7047.46 sec, Loss: 0.661, ValAcc: 0.85650, TrainAcc: 0.90568
+Epoch: 45, 7210.54 sec, Loss: 0.661, ValAcc: 0.85680, TrainAcc: 0.90592
+Epoch: 46, 7365.34 sec, Loss: 0.660, ValAcc: 0.85530, TrainAcc: 0.90573
+Epoch: 47, 7522.11 sec, Loss: 0.649, ValAcc: 0.85770, TrainAcc: 0.90907
+Epoch: 48, 7680.93 sec, Loss: 0.650, ValAcc: 0.85825, TrainAcc: 0.90968
+Epoch: 49, 7834.77 sec, Loss: 0.645, ValAcc: 0.85860, TrainAcc: 0.91063
+Epoch: 50, 7988.77 sec, Loss: 0.642, ValAcc: 0.85885, TrainAcc: 0.91232
+Epoch: 51, 8145.93 sec, Loss: 0.644, ValAcc: 0.85855, TrainAcc: 0.91080
+Epoch: 52, 8301.62 sec, Loss: 0.639, ValAcc: 0.85945, TrainAcc: 0.91318
+Epoch: 53, 8458.30 sec, Loss: 0.636, ValAcc: 0.85915, TrainAcc: 0.91312
+Epoch: 54, 8617.03 sec, Loss: 0.635, ValAcc: 0.86000, TrainAcc: 0.91317
+Epoch: 55, 8772.30 sec, Loss: 0.632, ValAcc: 0.86110, TrainAcc: 0.91482
+Epoch: 56, 8928.12 sec, Loss: 0.630, ValAcc: 0.86005, TrainAcc: 0.91352
+Epoch: 57, 9084.23 sec, Loss: 0.630, ValAcc: 0.85845, TrainAcc: 0.91512
+Epoch: 58, 9242.16 sec, Loss: 0.625, ValAcc: 0.86170, TrainAcc: 0.91577
+Epoch: 59, 9400.44 sec, Loss: 0.620, ValAcc: 0.86070, TrainAcc: 0.91645
+Epoch: 60, 9577.18 sec, Loss: 0.619, ValAcc: 0.85995, TrainAcc: 0.91730
+Epoch: 61, 9778.14 sec, Loss: 0.619, ValAcc: 0.85940, TrainAcc: 0.91703
+Epoch: 62, 10001.31 sec, Loss: 0.612, ValAcc: 0.86250, TrainAcc: 0.91930
+Epoch: 63, 10208.47 sec, Loss: 0.613, ValAcc: 0.86200, TrainAcc: 0.91843
+Epoch: 64, 10406.19 sec, Loss: 0.612, ValAcc: 0.85990, TrainAcc: 0.91903
+Epoch: 65, 10594.08 sec, Loss: 0.611, ValAcc: 0.85970, TrainAcc: 0.91858
+Epoch: 66, 10778.27 sec, Loss: 0.608, ValAcc: 0.86060, TrainAcc: 0.92000
+Epoch: 67, 10960.31 sec, Loss: 0.609, ValAcc: 0.86035, TrainAcc: 0.91943
+Epoch: 68, 11142.36 sec, Loss: 0.608, ValAcc: 0.86105, TrainAcc: 0.92017
+Epoch: 69, 11332.30 sec, Loss: 0.606, ValAcc: 0.85985, TrainAcc: 0.91985
+Epoch: 70, 11519.68 sec, Loss: 0.603, ValAcc: 0.86195, TrainAcc: 0.92087
+Epoch: 71, 11712.46 sec, Loss: 0.600, ValAcc: 0.86170, TrainAcc: 0.92063
+Epoch: 72, 11926.52 sec, Loss: 0.594, ValAcc: 0.86170, TrainAcc: 0.92252
+Epoch: 73, 12134.87 sec, Loss: 0.596, ValAcc: 0.86155, TrainAcc: 0.92170
+Epoch: 74, 12332.33 sec, Loss: 0.594, ValAcc: 0.86255, TrainAcc: 0.92203
+
+
+***** 2convhalfDrop 50 32
+buildGraph2convhalffilters 16 and 32 instead of 32 and 64. no norm, dropout 0.9, 50 epochs
+
+Run Time: 7119.47 seconds
+Final Training Error: 0.04779
+Final Validation Error: 0.97509
+Final Testing Error: 0.95545
+Final Training Accuracy: 0.99250
+Final Validation Accuracy: 0.88805
+Final Testing Accuracy: 0.88952
+
+Epoch: 0, 163.27 sec, Loss: 0.614, ValAcc: 0.79635, TrainAcc: 0.82222
+Epoch: 1, 328.08 sec, Loss: 0.454, ValAcc: 0.83405, TrainAcc: 0.86732
+Epoch: 2, 485.61 sec, Loss: 0.370, ValAcc: 0.84745, TrainAcc: 0.89258
+Epoch: 3, 624.69 sec, Loss: 0.312, ValAcc: 0.85650, TrainAcc: 0.91070
+Epoch: 4, 793.73 sec, Loss: 0.268, ValAcc: 0.86160, TrainAcc: 0.92343
+Epoch: 5, 949.56 sec, Loss: 0.232, ValAcc: 0.86390, TrainAcc: 0.93488
+Epoch: 6, 1102.65 sec, Loss: 0.203, ValAcc: 0.86570, TrainAcc: 0.94278
+Epoch: 7, 1245.80 sec, Loss: 0.180, ValAcc: 0.86475, TrainAcc: 0.94807
+Epoch: 8, 1383.52 sec, Loss: 0.160, ValAcc: 0.86520, TrainAcc: 0.95382
+Epoch: 9, 1528.88 sec, Loss: 0.137, ValAcc: 0.86845, TrainAcc: 0.95965
+Epoch: 10, 1666.02 sec, Loss: 0.125, ValAcc: 0.86900, TrainAcc: 0.96363
+Epoch: 11, 1802.44 sec, Loss: 0.110, ValAcc: 0.87070, TrainAcc: 0.96737
+Epoch: 12, 1932.71 sec, Loss: 0.095, ValAcc: 0.87165, TrainAcc: 0.97277
+Epoch: 13, 2078.50 sec, Loss: 0.096, ValAcc: 0.87320, TrainAcc: 0.97243
+Epoch: 14, 2240.09 sec, Loss: 0.098, ValAcc: 0.86975, TrainAcc: 0.97130
+Epoch: 15, 2374.26 sec, Loss: 0.079, ValAcc: 0.87305, TrainAcc: 0.97807
+Epoch: 16, 2525.38 sec, Loss: 0.077, ValAcc: 0.87400, TrainAcc: 0.97840
+Epoch: 17, 2662.77 sec, Loss: 0.093, ValAcc: 0.86965, TrainAcc: 0.97283
+Epoch: 18, 2801.43 sec, Loss: 0.072, ValAcc: 0.87440, TrainAcc: 0.97992
+Epoch: 19, 2946.59 sec, Loss: 0.071, ValAcc: 0.87645, TrainAcc: 0.98007
+Epoch: 20, 3076.57 sec, Loss: 0.058, ValAcc: 0.88025, TrainAcc: 0.98542
+Epoch: 21, 3203.48 sec, Loss: 0.073, ValAcc: 0.87540, TrainAcc: 0.98028
+Epoch: 22, 3338.00 sec, Loss: 0.056, ValAcc: 0.88010, TrainAcc: 0.98585
+Epoch: 23, 3466.05 sec, Loss: 0.050, ValAcc: 0.88165, TrainAcc: 0.98785
+Epoch: 24, 3616.03 sec, Loss: 0.047, ValAcc: 0.88375, TrainAcc: 0.98897
+Epoch: 25, 3763.45 sec, Loss: 0.047, ValAcc: 0.88525, TrainAcc: 0.98907
+Epoch: 26, 3896.98 sec, Loss: 0.048, ValAcc: 0.88510, TrainAcc: 0.98913
+Epoch: 27, 4069.23 sec, Loss: 0.048, ValAcc: 0.88555, TrainAcc: 0.98925
+Epoch: 28, 4206.16 sec, Loss: 0.086, ValAcc: 0.87305, TrainAcc: 0.97665
+Epoch: 29, 4350.05 sec, Loss: 0.063, ValAcc: 0.87780, TrainAcc: 0.98425
+Epoch: 30, 4492.61 sec, Loss: 0.070, ValAcc: 0.87325, TrainAcc: 0.98165
+Epoch: 31, 4632.28 sec, Loss: 0.063, ValAcc: 0.87535, TrainAcc: 0.98340
+Epoch: 32, 4768.41 sec, Loss: 0.126, ValAcc: 0.86345, TrainAcc: 0.96655
+Epoch: 33, 4917.94 sec, Loss: 0.068, ValAcc: 0.87155, TrainAcc: 0.98213
+Epoch: 34, 5047.04 sec, Loss: 0.065, ValAcc: 0.87330, TrainAcc: 0.98275
+Epoch: 35, 5178.35 sec, Loss: 0.068, ValAcc: 0.87465, TrainAcc: 0.98243
+Epoch: 36, 5315.80 sec, Loss: 0.058, ValAcc: 0.87400, TrainAcc: 0.98530
+Epoch: 37, 5455.62 sec, Loss: 0.046, ValAcc: 0.88015, TrainAcc: 0.98933
+Epoch: 38, 5602.86 sec, Loss: 0.043, ValAcc: 0.88125, TrainAcc: 0.99043
+Epoch: 39, 5752.48 sec, Loss: 0.042, ValAcc: 0.88225, TrainAcc: 0.99075
+Epoch: 40, 5888.48 sec, Loss: 0.042, ValAcc: 0.88300, TrainAcc: 0.99080
+Epoch: 41, 6018.78 sec, Loss: 0.042, ValAcc: 0.88485, TrainAcc: 0.99113
+Epoch: 42, 6143.82 sec, Loss: 0.043, ValAcc: 0.88590, TrainAcc: 0.99140
+Epoch: 43, 6277.10 sec, Loss: 0.044, ValAcc: 0.88665, TrainAcc: 0.99145
+Epoch: 44, 6416.57 sec, Loss: 0.045, ValAcc: 0.88715, TrainAcc: 0.99147
+Epoch: 45, 6545.41 sec, Loss: 0.045, ValAcc: 0.88685, TrainAcc: 0.99157
+Epoch: 46, 6678.39 sec, Loss: 0.046, ValAcc: 0.88850, TrainAcc: 0.99180
+Epoch: 47, 6824.26 sec, Loss: 0.047, ValAcc: 0.88835, TrainAcc: 0.99198
+Epoch: 48, 6970.34 sec, Loss: 0.047, ValAcc: 0.88775, TrainAcc: 0.99223
+Epoch: 49, 7119.46 sec, Loss: 0.048, ValAcc: 0.88805, TrainAcc: 0.99250
+
+
+***** 2convhalfDrop 50 32
+buildGraph2convhalffilters 16 and 32 instead of 32 and 64. 0.05 norm, dropout 0.1 0.1 0 0.3, 50 epochs 00007
+Epoch: 0, 230.37 sec, Loss: 9.505, ValAcc: 0.64495, TrainAcc: 0.65297
+Epoch: 1, 436.83 sec, Loss: 3.364, ValAcc: 0.77175, TrainAcc: 0.78587
+Epoch: 2, 662.77 sec, Loss: 1.834, ValAcc: 0.80525, TrainAcc: 0.82158
+Epoch: 3, 880.77 sec, Loss: 1.319, ValAcc: 0.82875, TrainAcc: 0.84917
+Epoch: 4, 1080.91 sec, Loss: 1.115, ValAcc: 0.83925, TrainAcc: 0.86112
+Epoch: 5, 1284.90 sec, Loss: 1.007, ValAcc: 0.84815, TrainAcc: 0.87095
+Epoch: 6, 1497.10 sec, Loss: 0.966, ValAcc: 0.85140, TrainAcc: 0.87275
+Epoch: 7, 1700.09 sec, Loss: 0.953, ValAcc: 0.85325, TrainAcc: 0.87288
+Epoch: 8, 1909.60 sec, Loss: 0.968, ValAcc: 0.84220, TrainAcc: 0.86397
+Epoch: 9, 2121.31 sec, Loss: 0.965, ValAcc: 0.84130, TrainAcc: 0.85948
+Epoch: 10, 2329.77 sec, Loss: 0.931, ValAcc: 0.83745, TrainAcc: 0.85572
+Epoch: 11, 2529.43 sec, Loss: 0.906, ValAcc: 0.83395, TrainAcc: 0.85420
+Epoch: 12, 2724.68 sec, Loss: 0.821, ValAcc: 0.86250, TrainAcc: 0.88107
+Epoch: 13, 2931.39 sec, Loss: 0.801, ValAcc: 0.86235, TrainAcc: 0.88112
+Epoch: 14, 3141.46 sec, Loss: 0.796, ValAcc: 0.85950, TrainAcc: 0.87982
+Epoch: 15, 3353.36 sec, Loss: 0.764, ValAcc: 0.86695, TrainAcc: 0.88842
+Epoch: 16, 3571.43 sec, Loss: 0.745, ValAcc: 0.86940, TrainAcc: 0.89028
+Epoch: 17, 3783.69 sec, Loss: 0.745, ValAcc: 0.86820, TrainAcc: 0.88838
+Epoch: 18, 3984.55 sec, Loss: 0.738, ValAcc: 0.86035, TrainAcc: 0.88395
